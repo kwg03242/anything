@@ -1,0 +1,6140 @@
+[
+    {
+      "Date": "2020-06-16",
+      "Coin": "Bitcoin",
+      "Price": "9534.69 USD",
+      "Volume": 15470.08
+    },
+    {
+      "Date": "2020-06-15",
+      "Coin": "Bitcoin",
+      "Price": "9426.02 USD",
+      "Volume": 86107.92
+    },
+    {
+      "Date": "2020-06-14",
+      "Coin": "Bitcoin",
+      "Price": "9342.1 USD",
+      "Volume": 30055.51
+    },
+    {
+      "Date": "2020-06-13",
+      "Coin": "Bitcoin",
+      "Price": "9473.34 USD",
+      "Volume": 27759.78
+    },
+    {
+      "Date": "2020-06-12",
+      "Coin": "Bitcoin",
+      "Price": "9465.13 USD",
+      "Volume": 50119.07
+    },
+    {
+      "Date": "2020-06-11",
+      "Coin": "Bitcoin",
+      "Price": "9280.4 USD",
+      "Volume": 94418.98
+    },
+    {
+      "Date": "2020-06-10",
+      "Coin": "Bitcoin",
+      "Price": "9885 USD",
+      "Volume": 47130.76
+    },
+    {
+      "Date": "2020-06-09",
+      "Coin": "Bitcoin",
+      "Price": "9772.43 USD",
+      "Volume": 46024
+    },
+    {
+      "Date": "2020-06-08",
+      "Coin": "Bitcoin",
+      "Price": "9782.01 USD",
+      "Volume": 40664.66
+    },
+    {
+      "Date": "2020-06-07",
+      "Coin": "Bitcoin",
+      "Price": "9746.99 USD",
+      "Volume": 57952.85
+    },
+    {
+      "Date": "2020-06-06",
+      "Coin": "Bitcoin",
+      "Price": "9666.3 USD",
+      "Volume": 32752.95
+    },
+    {
+      "Date": "2020-06-05",
+      "Coin": "Bitcoin",
+      "Price": "9621.16 USD",
+      "Volume": 47788.05
+    },
+    {
+      "Date": "2020-06-04",
+      "Coin": "Bitcoin",
+      "Price": "9789.06 USD",
+      "Volume": 57456.1
+    },
+    {
+      "Date": "2020-06-03",
+      "Coin": "Bitcoin",
+      "Price": "9666.24 USD",
+      "Volume": 46252.64
+    },
+    {
+      "Date": "2020-06-02",
+      "Coin": "Bitcoin",
+      "Price": "9518.04 USD",
+      "Volume": 108970.77
+    },
+    {
+      "Date": "2020-06-01",
+      "Coin": "Bitcoin",
+      "Price": "10200.77 USD",
+      "Volume": 76649.13
+    },
+    {
+      "Date": "2020-05-31",
+      "Coin": "Bitcoin",
+      "Price": "9448.27 USD",
+      "Volume": 48333.79
+    },
+    {
+      "Date": "2020-05-30",
+      "Coin": "Bitcoin",
+      "Price": "9697.72 USD",
+      "Volume": 55665.27
+    },
+    {
+      "Date": "2020-05-29",
+      "Coin": "Bitcoin",
+      "Price": "9427.07 USD",
+      "Volume": 57374.36
+    },
+    {
+      "Date": "2020-05-28",
+      "Coin": "Bitcoin",
+      "Price": "9575.89 USD",
+      "Volume": 74110.79
+    },
+    {
+      "Date": "2020-05-27",
+      "Coin": "Bitcoin",
+      "Price": "9204.07 USD",
+      "Volume": 68910.36
+    },
+    {
+      "Date": "2020-05-26",
+      "Coin": "Bitcoin",
+      "Price": "8841.18 USD",
+      "Volume": 58299.77
+    },
+    {
+      "Date": "2020-05-25",
+      "Coin": "Bitcoin",
+      "Price": "8900.35 USD",
+      "Volume": 62833.91
+    },
+    {
+      "Date": "2020-05-24",
+      "Coin": "Bitcoin",
+      "Price": "8720.34 USD",
+      "Volume": 70379.87
+    },
+    {
+      "Date": "2020-05-23",
+      "Coin": "Bitcoin",
+      "Price": "9179.15 USD",
+      "Volume": 43526.3
+    },
+    {
+      "Date": "2020-05-22",
+      "Coin": "Bitcoin",
+      "Price": "9170 USD",
+      "Volume": 58943.13
+    },
+    {
+      "Date": "2020-05-21",
+      "Coin": "Bitcoin",
+      "Price": "9068.65 USD",
+      "Volume": 108928.78
+    },
+    {
+      "Date": "2020-05-20",
+      "Coin": "Bitcoin",
+      "Price": "9511.43 USD",
+      "Volume": 74923.74
+    },
+    {
+      "Date": "2020-05-19",
+      "Coin": "Bitcoin",
+      "Price": "9775.53 USD",
+      "Volume": 78539.76
+    },
+    {
+      "Date": "2020-05-18",
+      "Coin": "Bitcoin",
+      "Price": "9733.93 USD",
+      "Volume": 82006.6
+    },
+    {
+      "Date": "2020-05-17",
+      "Coin": "Bitcoin",
+      "Price": "9680.04 USD",
+      "Volume": 68647.76
+    },
+    {
+      "Date": "2020-05-16",
+      "Coin": "Bitcoin",
+      "Price": "9381.27 USD",
+      "Volume": 59587.63
+    },
+    {
+      "Date": "2020-05-15",
+      "Coin": "Bitcoin",
+      "Price": "9316.42 USD",
+      "Volume": 115890.76
+    },
+    {
+      "Date": "2020-05-14",
+      "Coin": "Bitcoin",
+      "Price": "9791.98 USD",
+      "Volume": 129565.38
+    },
+    {
+      "Date": "2020-05-13",
+      "Coin": "Bitcoin",
+      "Price": "9309.37 USD",
+      "Volume": 92466.27
+    },
+    {
+      "Date": "2020-05-12",
+      "Coin": "Bitcoin",
+      "Price": "8810.79 USD",
+      "Volume": 86522.78
+    },
+    {
+      "Date": "2020-05-11",
+      "Coin": "Bitcoin",
+      "Price": "8561.52 USD",
+      "Volume": 168807.25
+    },
+    {
+      "Date": "2020-05-10",
+      "Coin": "Bitcoin",
+      "Price": "8722.77 USD",
+      "Volume": 183865.18
+    },
+    {
+      "Date": "2020-05-09",
+      "Coin": "Bitcoin",
+      "Price": "9539.4 USD",
+      "Volume": 81950.68
+    },
+    {
+      "Date": "2020-05-08",
+      "Coin": "Bitcoin",
+      "Price": "9800.01 USD",
+      "Volume": 100683.8
+    },
+    {
+      "Date": "2020-05-07",
+      "Coin": "Bitcoin",
+      "Price": "9986.4 USD",
+      "Volume": 147154.61
+    },
+    {
+      "Date": "2020-05-06",
+      "Coin": "Bitcoin",
+      "Price": "9142.92 USD",
+      "Volume": 105925.3
+    },
+    {
+      "Date": "2020-05-05",
+      "Coin": "Bitcoin",
+      "Price": "9021.83 USD",
+      "Volume": 76480.77
+    },
+    {
+      "Date": "2020-05-04",
+      "Coin": "Bitcoin",
+      "Price": "8871.96 USD",
+      "Volume": 84418.51
+    },
+    {
+      "Date": "2020-05-03",
+      "Coin": "Bitcoin",
+      "Price": "8894.16 USD",
+      "Volume": 90126.07
+    },
+    {
+      "Date": "2020-05-02",
+      "Coin": "Bitcoin",
+      "Price": "8972.05 USD",
+      "Volume": 59002.09
+    },
+    {
+      "Date": "2020-05-01",
+      "Coin": "Bitcoin",
+      "Price": "8826.96 USD",
+      "Volume": 91468.82
+    },
+    {
+      "Date": "2020-04-30",
+      "Coin": "Bitcoin",
+      "Price": "8620 USD",
+      "Volume": 206277.21
+    },
+    {
+      "Date": "2020-04-29",
+      "Coin": "Bitcoin",
+      "Price": "8778.57 USD",
+      "Volume": 183546.89
+    },
+    {
+      "Date": "2020-04-28",
+      "Coin": "Bitcoin",
+      "Price": "7738.98 USD",
+      "Volume": 46302.75
+    },
+    {
+      "Date": "2020-04-27",
+      "Coin": "Bitcoin",
+      "Price": "7774.62 USD",
+      "Volume": 65441.34
+    },
+    {
+      "Date": "2020-04-26",
+      "Coin": "Bitcoin",
+      "Price": "7693.1 USD",
+      "Volume": 50522.62
+    },
+    {
+      "Date": "2020-04-25",
+      "Coin": "Bitcoin",
+      "Price": "7538.67 USD",
+      "Volume": 43874.43
+    },
+    {
+      "Date": "2020-04-24",
+      "Coin": "Bitcoin",
+      "Price": "7505 USD",
+      "Volume": 60182.12
+    },
+    {
+      "Date": "2020-04-23",
+      "Coin": "Bitcoin",
+      "Price": "7482.39 USD",
+      "Volume": 102773.57
+    },
+    {
+      "Date": "2020-04-22",
+      "Coin": "Bitcoin",
+      "Price": "7125.14 USD",
+      "Volume": 61486.38
+    },
+    {
+      "Date": "2020-04-21",
+      "Coin": "Bitcoin",
+      "Price": "6841.37 USD",
+      "Volume": 60109.71
+    },
+    {
+      "Date": "2020-04-20",
+      "Coin": "Bitcoin",
+      "Price": "6826.83 USD",
+      "Volume": 90149.49
+    },
+    {
+      "Date": "2020-04-19",
+      "Coin": "Bitcoin",
+      "Price": "7120.74 USD",
+      "Volume": 45664.86
+    },
+    {
+      "Date": "2020-04-18",
+      "Coin": "Bitcoin",
+      "Price": "7248.6 USD",
+      "Volume": 49488.54
+    },
+    {
+      "Date": "2020-04-17",
+      "Coin": "Bitcoin",
+      "Price": "7027.55 USD",
+      "Volume": 54126.51
+    },
+    {
+      "Date": "2020-04-16",
+      "Coin": "Bitcoin",
+      "Price": "7101.94 USD",
+      "Volume": 125009.86
+    },
+    {
+      "Date": "2020-04-15",
+      "Coin": "Bitcoin",
+      "Price": "6621.24 USD",
+      "Volume": 61571.38
+    },
+    {
+      "Date": "2020-04-14",
+      "Coin": "Bitcoin",
+      "Price": "6868.7 USD",
+      "Volume": 69068.62
+    },
+    {
+      "Date": "2020-04-13",
+      "Coin": "Bitcoin",
+      "Price": "6837.91 USD",
+      "Volume": 96415.48
+    },
+    {
+      "Date": "2020-04-12",
+      "Coin": "Bitcoin",
+      "Price": "6903.79 USD",
+      "Volume": 73868.67
+    },
+    {
+      "Date": "2020-04-11",
+      "Coin": "Bitcoin",
+      "Price": "6876.83 USD",
+      "Volume": 45470.29
+    },
+    {
+      "Date": "2020-04-10",
+      "Coin": "Bitcoin",
+      "Price": "6858.92 USD",
+      "Volume": 104674.62
+    },
+    {
+      "Date": "2020-04-09",
+      "Coin": "Bitcoin",
+      "Price": "7283.54 USD",
+      "Volume": 61094.87
+    },
+    {
+      "Date": "2020-04-08",
+      "Coin": "Bitcoin",
+      "Price": "7361.28 USD",
+      "Volume": 76059.15
+    },
+    {
+      "Date": "2020-04-07",
+      "Coin": "Bitcoin",
+      "Price": "7197.32 USD",
+      "Volume": 103585.17
+    },
+    {
+      "Date": "2020-04-06",
+      "Coin": "Bitcoin",
+      "Price": "7329.9 USD",
+      "Volume": 118052
+    },
+    {
+      "Date": "2020-04-05",
+      "Coin": "Bitcoin",
+      "Price": "6772.78 USD",
+      "Volume": 49685.36
+    },
+    {
+      "Date": "2020-04-04",
+      "Coin": "Bitcoin",
+      "Price": "6856.99 USD",
+      "Volume": 71387.02
+    },
+    {
+      "Date": "2020-04-03",
+      "Coin": "Bitcoin",
+      "Price": "6734.1 USD",
+      "Volume": 104080.28
+    },
+    {
+      "Date": "2020-04-02",
+      "Coin": "Bitcoin",
+      "Price": "6794.09 USD",
+      "Volume": 149299.91
+    },
+    {
+      "Date": "2020-04-01",
+      "Coin": "Bitcoin",
+      "Price": "6642.92 USD",
+      "Volume": 97500.75
+    },
+    {
+      "Date": "2020-03-31",
+      "Coin": "Bitcoin",
+      "Price": "6410.44 USD",
+      "Volume": 72337.6
+    },
+    {
+      "Date": "2020-03-30",
+      "Coin": "Bitcoin",
+      "Price": "6394.38 USD",
+      "Volume": 118889.55
+    },
+    {
+      "Date": "2020-03-29",
+      "Coin": "Bitcoin",
+      "Price": "5881.42 USD",
+      "Volume": 63311.63
+    },
+    {
+      "Date": "2020-03-28",
+      "Coin": "Bitcoin",
+      "Price": "6236.65 USD",
+      "Volume": 93159.69
+    },
+    {
+      "Date": "2020-03-27",
+      "Coin": "Bitcoin",
+      "Price": "6359.11 USD",
+      "Volume": 82914.97
+    },
+    {
+      "Date": "2020-03-26",
+      "Coin": "Bitcoin",
+      "Price": "6737.36 USD",
+      "Volume": 83026.56
+    },
+    {
+      "Date": "2020-03-25",
+      "Coin": "Bitcoin",
+      "Price": "6677.43 USD",
+      "Volume": 132155.73
+    },
+    {
+      "Date": "2020-03-24",
+      "Coin": "Bitcoin",
+      "Price": "6744.72 USD",
+      "Volume": 151138.01
+    },
+    {
+      "Date": "2020-03-23",
+      "Coin": "Bitcoin",
+      "Price": "6467.31 USD",
+      "Volume": 164674.22
+    },
+    {
+      "Date": "2020-03-22",
+      "Coin": "Bitcoin",
+      "Price": "5816.19 USD",
+      "Volume": 119115.99
+    },
+    {
+      "Date": "2020-03-21",
+      "Coin": "Bitcoin",
+      "Price": "6186.98 USD",
+      "Volume": 128913.67
+    },
+    {
+      "Date": "2020-03-20",
+      "Coin": "Bitcoin",
+      "Price": "6208.36 USD",
+      "Volume": 219298.33
+    },
+    {
+      "Date": "2020-03-19",
+      "Coin": "Bitcoin",
+      "Price": "6162.37 USD",
+      "Volume": 199020.87
+    },
+    {
+      "Date": "2020-03-18",
+      "Coin": "Bitcoin",
+      "Price": "5393.04 USD",
+      "Volume": 137127.63
+    },
+    {
+      "Date": "2020-03-17",
+      "Coin": "Bitcoin",
+      "Price": "5312.64 USD",
+      "Volume": 150089.93
+    },
+    {
+      "Date": "2020-03-16",
+      "Coin": "Bitcoin",
+      "Price": "5028.97 USD",
+      "Volume": 227276.92
+    },
+    {
+      "Date": "2020-03-15",
+      "Coin": "Bitcoin",
+      "Price": "5361.3 USD",
+      "Volume": 139916.15
+    },
+    {
+      "Date": "2020-03-14",
+      "Coin": "Bitcoin",
+      "Price": "5172.06 USD",
+      "Volume": 136910.14
+    },
+    {
+      "Date": "2020-03-13",
+      "Coin": "Bitcoin",
+      "Price": "5578.6 USD",
+      "Volume": 402201.67
+    },
+    {
+      "Date": "2020-03-12",
+      "Coin": "Bitcoin",
+      "Price": "4800 USD",
+      "Volume": 261505.61
+    },
+    {
+      "Date": "2020-03-11",
+      "Coin": "Bitcoin",
+      "Price": "7934.52 USD",
+      "Volume": 79942.41
+    },
+    {
+      "Date": "2020-03-10",
+      "Coin": "Bitcoin",
+      "Price": "7894.56 USD",
+      "Volume": 86783.44
+    },
+    {
+      "Date": "2020-03-09",
+      "Coin": "Bitcoin",
+      "Price": "7929.87 USD",
+      "Volume": 116968.86
+    },
+    {
+      "Date": "2020-03-08",
+      "Coin": "Bitcoin",
+      "Price": "8033.31 USD",
+      "Volume": 77537.32
+    },
+    {
+      "Date": "2020-03-07",
+      "Coin": "Bitcoin",
+      "Price": "8886.66 USD",
+      "Volume": 45422.2
+    },
+    {
+      "Date": "2020-03-06",
+      "Coin": "Bitcoin",
+      "Price": "9131.88 USD",
+      "Volume": 43782.95
+    },
+    {
+      "Date": "2020-03-05",
+      "Coin": "Bitcoin",
+      "Price": "9054.68 USD",
+      "Volume": 58201.87
+    },
+    {
+      "Date": "2020-03-04",
+      "Coin": "Bitcoin",
+      "Price": "8750.87 USD",
+      "Volume": 35610.41
+    },
+    {
+      "Date": "2020-03-03",
+      "Coin": "Bitcoin",
+      "Price": "8760.07 USD",
+      "Volume": 49980.86
+    },
+    {
+      "Date": "2020-03-02",
+      "Coin": "Bitcoin",
+      "Price": "8915.24 USD",
+      "Volume": 54638.61
+    },
+    {
+      "Date": "2020-03-01",
+      "Coin": "Bitcoin",
+      "Price": "8531.88 USD",
+      "Volume": 40093.04
+    },
+    {
+      "Date": "2020-02-29",
+      "Coin": "Bitcoin",
+      "Price": "8523.61 USD",
+      "Volume": 33946.24
+    },
+    {
+      "Date": "2020-02-28",
+      "Coin": "Bitcoin",
+      "Price": "8692.91 USD",
+      "Volume": 63915.27
+    },
+    {
+      "Date": "2020-02-27",
+      "Coin": "Bitcoin",
+      "Price": "8823.21 USD",
+      "Volume": 64744.22
+    },
+    {
+      "Date": "2020-02-26",
+      "Coin": "Bitcoin",
+      "Price": "8785.25 USD",
+      "Volume": 81913.46
+    },
+    {
+      "Date": "2020-02-25",
+      "Coin": "Bitcoin",
+      "Price": "9315.84 USD",
+      "Volume": 49267.24
+    },
+    {
+      "Date": "2020-02-24",
+      "Coin": "Bitcoin",
+      "Price": "9656.13 USD",
+      "Volume": 49996.67
+    },
+    {
+      "Date": "2020-02-23",
+      "Coin": "Bitcoin",
+      "Price": "9936.4 USD",
+      "Volume": 34442.06
+    },
+    {
+      "Date": "2020-02-22",
+      "Coin": "Bitcoin",
+      "Price": "9650.86 USD",
+      "Volume": 23022.78
+    },
+    {
+      "Date": "2020-02-21",
+      "Coin": "Bitcoin",
+      "Price": "9677.05 USD",
+      "Volume": 38430.85
+    },
+    {
+      "Date": "2020-02-20",
+      "Coin": "Bitcoin",
+      "Price": "9596.42 USD",
+      "Volume": 54231.78
+    },
+    {
+      "Date": "2020-02-19",
+      "Coin": "Bitcoin",
+      "Price": "9593.79 USD",
+      "Volume": 49147.48
+    },
+    {
+      "Date": "2020-02-18",
+      "Coin": "Bitcoin",
+      "Price": "10164.71 USD",
+      "Volume": 63790.89
+    },
+    {
+      "Date": "2020-02-17",
+      "Coin": "Bitcoin",
+      "Price": "9706 USD",
+      "Volume": 63050.14
+    },
+    {
+      "Date": "2020-02-16",
+      "Coin": "Bitcoin",
+      "Price": "9917.27 USD",
+      "Volume": 54058.8
+    },
+    {
+      "Date": "2020-02-15",
+      "Coin": "Bitcoin",
+      "Price": "9904.72 USD",
+      "Volume": 38225.68
+    },
+    {
+      "Date": "2020-02-14",
+      "Coin": "Bitcoin",
+      "Price": "10344.36 USD",
+      "Volume": 43024.5
+    },
+    {
+      "Date": "2020-02-13",
+      "Coin": "Bitcoin",
+      "Price": "10229.63 USD",
+      "Volume": 70225.77
+    },
+    {
+      "Date": "2020-02-12",
+      "Coin": "Bitcoin",
+      "Price": "10326.46 USD",
+      "Volume": 55160.49
+    },
+    {
+      "Date": "2020-02-11",
+      "Coin": "Bitcoin",
+      "Price": "10223.08 USD",
+      "Volume": 56258.38
+    },
+    {
+      "Date": "2020-02-10",
+      "Coin": "Bitcoin",
+      "Price": "9851.83 USD",
+      "Volume": 53866.71
+    },
+    {
+      "Date": "2020-02-09",
+      "Coin": "Bitcoin",
+      "Price": "10151.75 USD",
+      "Volume": 39817.75
+    },
+    {
+      "Date": "2020-02-08",
+      "Coin": "Bitcoin",
+      "Price": "9895.05 USD",
+      "Volume": 39960.5
+    },
+    {
+      "Date": "2020-02-07",
+      "Coin": "Bitcoin",
+      "Price": "9813.73 USD",
+      "Volume": 40374.42
+    },
+    {
+      "Date": "2020-02-06",
+      "Coin": "Bitcoin",
+      "Price": "9772 USD",
+      "Volume": 59349.94
+    },
+    {
+      "Date": "2020-02-05",
+      "Coin": "Bitcoin",
+      "Price": "9612.04 USD",
+      "Volume": 59261.36
+    },
+    {
+      "Date": "2020-02-04",
+      "Coin": "Bitcoin",
+      "Price": "9197.02 USD",
+      "Volume": 48880.11
+    },
+    {
+      "Date": "2020-02-03",
+      "Coin": "Bitcoin",
+      "Price": "9292.24 USD",
+      "Volume": 46211.66
+    },
+    {
+      "Date": "2020-02-02",
+      "Coin": "Bitcoin",
+      "Price": "9331.51 USD",
+      "Volume": 41945.81
+    },
+    {
+      "Date": "2020-02-01",
+      "Coin": "Bitcoin",
+      "Price": "9384.61 USD",
+      "Volume": 26746.06
+    },
+    {
+      "Date": "2020-01-31",
+      "Coin": "Bitcoin",
+      "Price": "9352.89 USD",
+      "Volume": 41761.34
+    },
+    {
+      "Date": "2020-01-30",
+      "Coin": "Bitcoin",
+      "Price": "9513.21 USD",
+      "Volume": 55439.48
+    },
+    {
+      "Date": "2020-01-29",
+      "Coin": "Bitcoin",
+      "Price": "9301.53 USD",
+      "Volume": 49045.52
+    },
+    {
+      "Date": "2020-01-28",
+      "Coin": "Bitcoin",
+      "Price": "9374.21 USD",
+      "Volume": 67139.07
+    },
+    {
+      "Date": "2020-01-27",
+      "Coin": "Bitcoin",
+      "Price": "8907.57 USD",
+      "Volume": 49052.91
+    },
+    {
+      "Date": "2020-01-26",
+      "Coin": "Bitcoin",
+      "Price": "8615 USD",
+      "Volume": 28775.88
+    },
+    {
+      "Date": "2020-01-25",
+      "Coin": "Bitcoin",
+      "Price": "8340.58 USD",
+      "Volume": 23704.04
+    },
+    {
+      "Date": "2020-01-24",
+      "Coin": "Bitcoin",
+      "Price": "8439 USD",
+      "Volume": 37915.34
+    },
+    {
+      "Date": "2020-01-23",
+      "Coin": "Bitcoin",
+      "Price": "8404.52 USD",
+      "Volume": 43503.83
+    },
+    {
+      "Date": "2020-01-22",
+      "Coin": "Bitcoin",
+      "Price": "8682.36 USD",
+      "Volume": 26606.87
+    },
+    {
+      "Date": "2020-01-21",
+      "Coin": "Bitcoin",
+      "Price": "8736.03 USD",
+      "Volume": 33291.5
+    },
+    {
+      "Date": "2020-01-20",
+      "Coin": "Bitcoin",
+      "Price": "8642.35 USD",
+      "Volume": 35807.9
+    },
+    {
+      "Date": "2020-01-19",
+      "Coin": "Bitcoin",
+      "Price": "8701.7 USD",
+      "Volume": 63049.82
+    },
+    {
+      "Date": "2020-01-18",
+      "Coin": "Bitcoin",
+      "Price": "8915.96 USD",
+      "Volume": 35353.75
+    },
+    {
+      "Date": "2020-01-17",
+      "Coin": "Bitcoin",
+      "Price": "8913.28 USD",
+      "Volume": 64388.51
+    },
+    {
+      "Date": "2020-01-16",
+      "Coin": "Bitcoin",
+      "Price": "8720.01 USD",
+      "Volume": 47421.64
+    },
+    {
+      "Date": "2020-01-15",
+      "Coin": "Bitcoin",
+      "Price": "8821.41 USD",
+      "Volume": 76661.43
+    },
+    {
+      "Date": "2020-01-14",
+      "Coin": "Bitcoin",
+      "Price": "8810.01 USD",
+      "Volume": 107343.57
+    },
+    {
+      "Date": "2020-01-13",
+      "Coin": "Bitcoin",
+      "Price": "8110.34 USD",
+      "Volume": 28881.44
+    },
+    {
+      "Date": "2020-01-12",
+      "Coin": "Bitcoin",
+      "Price": "8184.98 USD",
+      "Volume": 35192.02
+    },
+    {
+      "Date": "2020-01-11",
+      "Coin": "Bitcoin",
+      "Price": "8020.01 USD",
+      "Volume": 50145.37
+    },
+    {
+      "Date": "2020-01-10",
+      "Coin": "Bitcoin",
+      "Price": "8197.02 USD",
+      "Volume": 74805.42
+    },
+    {
+      "Date": "2020-01-09",
+      "Coin": "Bitcoin",
+      "Price": "7817.76 USD",
+      "Volume": 58498.62
+    },
+    {
+      "Date": "2020-01-08",
+      "Coin": "Bitcoin",
+      "Price": "8055.98 USD",
+      "Volume": 100231.74
+    },
+    {
+      "Date": "2020-01-07",
+      "Coin": "Bitcoin",
+      "Price": "8145.28 USD",
+      "Volume": 81794.92
+    },
+    {
+      "Date": "2020-01-06",
+      "Coin": "Bitcoin",
+      "Price": "7758 USD",
+      "Volume": 49697.96
+    },
+    {
+      "Date": "2020-01-05",
+      "Coin": "Bitcoin",
+      "Price": "7358.75 USD",
+      "Volume": 34999.35
+    },
+    {
+      "Date": "2020-01-04",
+      "Coin": "Bitcoin",
+      "Price": "7354.11 USD",
+      "Volume": 27821.23
+    },
+    {
+      "Date": "2020-01-03",
+      "Coin": "Bitcoin",
+      "Price": "7344.96 USD",
+      "Volume": 61732.73
+    },
+    {
+      "Date": "2020-01-02",
+      "Coin": "Bitcoin",
+      "Price": "6965.71 USD",
+      "Volume": 28711.23
+    },
+    {
+      "Date": "2020-01-01",
+      "Coin": "Bitcoin",
+      "Price": "7200.85 USD",
+      "Volume": 15863.73
+    },
+    {
+      "Date": "2019-12-31",
+      "Coin": "Bitcoin",
+      "Price": "7195.23 USD",
+      "Volume": 24256.85
+    },
+    {
+      "Date": "2019-12-30",
+      "Coin": "Bitcoin",
+      "Price": "7246 USD",
+      "Volume": 27565.74
+    },
+    {
+      "Date": "2019-12-29",
+      "Coin": "Bitcoin",
+      "Price": "7388.24 USD",
+      "Volume": 29020.09
+    },
+    {
+      "Date": "2019-12-28",
+      "Coin": "Bitcoin",
+      "Price": "7316.14 USD",
+      "Volume": 25071.48
+    },
+    {
+      "Date": "2019-12-27",
+      "Coin": "Bitcoin",
+      "Price": "7254.74 USD",
+      "Volume": 30768.07
+    },
+    {
+      "Date": "2019-12-24",
+      "Coin": "Bitcoin",
+      "Price": "7255.77 USD",
+      "Volume": 39505.57
+    },
+    {
+      "Date": "2019-12-26",
+      "Coin": "Bitcoin",
+      "Price": "7202 USD",
+      "Volume": 33167.16
+    },
+    {
+      "Date": "2019-12-25",
+      "Coin": "Bitcoin",
+      "Price": "7204.63 USD",
+      "Volume": 25457.83
+    },
+    {
+      "Date": "2019-12-23",
+      "Coin": "Bitcoin",
+      "Price": "7317.09 USD",
+      "Volume": 60987.27
+    },
+    {
+      "Date": "2019-12-22",
+      "Coin": "Bitcoin",
+      "Price": "7501.44 USD",
+      "Volume": 35292.5
+    },
+    {
+      "Date": "2019-12-21",
+      "Coin": "Bitcoin",
+      "Price": "7132.75 USD",
+      "Volume": 18190.18
+    },
+    {
+      "Date": "2019-12-20",
+      "Coin": "Bitcoin",
+      "Price": "7187.83 USD",
+      "Volume": 29759.82
+    },
+    {
+      "Date": "2019-12-19",
+      "Coin": "Bitcoin",
+      "Price": "7150.3 USD",
+      "Volume": 50624.1
+    },
+    {
+      "Date": "2019-12-18",
+      "Coin": "Bitcoin",
+      "Price": "7277.83 USD",
+      "Volume": 85595.89
+    },
+    {
+      "Date": "2019-12-17",
+      "Coin": "Bitcoin",
+      "Price": "6623.82 USD",
+      "Volume": 48961.97
+    },
+    {
+      "Date": "2019-12-16",
+      "Coin": "Bitcoin",
+      "Price": "6891.72 USD",
+      "Volume": 39497.8
+    },
+    {
+      "Date": "2019-12-15",
+      "Coin": "Bitcoin",
+      "Price": "7118.59 USD",
+      "Volume": 24422.47
+    },
+    {
+      "Date": "2019-12-14",
+      "Coin": "Bitcoin",
+      "Price": "7064.05 USD",
+      "Volume": 27222.69
+    },
+    {
+      "Date": "2019-12-13",
+      "Coin": "Bitcoin",
+      "Price": "7258.48 USD",
+      "Volume": 25590.86
+    },
+    {
+      "Date": "2019-12-12",
+      "Coin": "Bitcoin",
+      "Price": "7198.08 USD",
+      "Volume": 38744.76
+    },
+    {
+      "Date": "2019-12-11",
+      "Coin": "Bitcoin",
+      "Price": "7210 USD",
+      "Volume": 27874.05
+    },
+    {
+      "Date": "2019-12-10",
+      "Coin": "Bitcoin",
+      "Price": "7224.13 USD",
+      "Volume": 45187.19
+    },
+    {
+      "Date": "2019-12-09",
+      "Coin": "Bitcoin",
+      "Price": "7338.64 USD",
+      "Volume": 42385.3
+    },
+    {
+      "Date": "2019-12-08",
+      "Coin": "Bitcoin",
+      "Price": "7510.11 USD",
+      "Volume": 27712.74
+    },
+    {
+      "Date": "2019-12-07",
+      "Coin": "Bitcoin",
+      "Price": "7488.21 USD",
+      "Volume": 29505.47
+    },
+    {
+      "Date": "2019-12-06",
+      "Coin": "Bitcoin",
+      "Price": "7527.47 USD",
+      "Volume": 44263.35
+    },
+    {
+      "Date": "2019-12-05",
+      "Coin": "Bitcoin",
+      "Price": "7389 USD",
+      "Volume": 54542.99
+    },
+    {
+      "Date": "2019-12-04",
+      "Coin": "Bitcoin",
+      "Price": "7194.32 USD",
+      "Volume": 75289.06
+    },
+    {
+      "Date": "2019-12-03",
+      "Coin": "Bitcoin",
+      "Price": "7292.71 USD",
+      "Volume": 30874.84
+    },
+    {
+      "Date": "2019-12-02",
+      "Coin": "Bitcoin",
+      "Price": "7294.28 USD",
+      "Volume": 42953.43
+    },
+    {
+      "Date": "2019-12-01",
+      "Coin": "Bitcoin",
+      "Price": "7390.89 USD",
+      "Volume": 55963.07
+    },
+    {
+      "Date": "2019-11-30",
+      "Coin": "Bitcoin",
+      "Price": "7541.89 USD",
+      "Volume": 43649.46
+    },
+    {
+      "Date": "2019-11-29",
+      "Coin": "Bitcoin",
+      "Price": "7739.68 USD",
+      "Volume": 55883.83
+    },
+    {
+      "Date": "2019-11-28",
+      "Coin": "Bitcoin",
+      "Price": "7419.49 USD",
+      "Volume": 52819.31
+    },
+    {
+      "Date": "2019-11-27",
+      "Coin": "Bitcoin",
+      "Price": "7508.52 USD",
+      "Volume": 83809.93
+    },
+    {
+      "Date": "2019-11-26",
+      "Coin": "Bitcoin",
+      "Price": "7156.14 USD",
+      "Volume": 60968.73
+    },
+    {
+      "Date": "2019-11-25",
+      "Coin": "Bitcoin",
+      "Price": "7109.57 USD",
+      "Volume": 108525.89
+    },
+    {
+      "Date": "2019-11-24",
+      "Coin": "Bitcoin",
+      "Price": "6903.28 USD",
+      "Volume": 62299.87
+    },
+    {
+      "Date": "2019-11-23",
+      "Coin": "Bitcoin",
+      "Price": "7311.57 USD",
+      "Volume": 47009.84
+    },
+    {
+      "Date": "2019-11-22",
+      "Coin": "Bitcoin",
+      "Price": "7268.23 USD",
+      "Volume": 112866.99
+    },
+    {
+      "Date": "2019-11-21",
+      "Coin": "Bitcoin",
+      "Price": "7627.74 USD",
+      "Volume": 53008.6
+    },
+    {
+      "Date": "2019-11-20",
+      "Coin": "Bitcoin",
+      "Price": "8098.01 USD",
+      "Volume": 30269.17
+    },
+    {
+      "Date": "2019-11-19",
+      "Coin": "Bitcoin",
+      "Price": "8133.64 USD",
+      "Volume": 40268.68
+    },
+    {
+      "Date": "2019-11-18",
+      "Coin": "Bitcoin",
+      "Price": "8187.17 USD",
+      "Volume": 39467.55
+    },
+    {
+      "Date": "2019-11-17",
+      "Coin": "Bitcoin",
+      "Price": "8502.4 USD",
+      "Volume": 24922.3
+    },
+    {
+      "Date": "2019-11-16",
+      "Coin": "Bitcoin",
+      "Price": "8491.02 USD",
+      "Volume": 19627.54
+    },
+    {
+      "Date": "2019-11-15",
+      "Coin": "Bitcoin",
+      "Price": "8471.73 USD",
+      "Volume": 42189.03
+    },
+    {
+      "Date": "2019-11-14",
+      "Coin": "Bitcoin",
+      "Price": "8646.68 USD",
+      "Volume": 30941.25
+    },
+    {
+      "Date": "2019-11-13",
+      "Coin": "Bitcoin",
+      "Price": "8777.12 USD",
+      "Volume": 25115.33
+    },
+    {
+      "Date": "2019-11-12",
+      "Coin": "Bitcoin",
+      "Price": "8821.94 USD",
+      "Volume": 37072.73
+    },
+    {
+      "Date": "2019-11-11",
+      "Coin": "Bitcoin",
+      "Price": "8733.27 USD",
+      "Volume": 41436.65
+    },
+    {
+      "Date": "2019-11-10",
+      "Coin": "Bitcoin",
+      "Price": "9039.47 USD",
+      "Volume": 31595.96
+    },
+    {
+      "Date": "2019-11-09",
+      "Coin": "Bitcoin",
+      "Price": "8809.41 USD",
+      "Volume": 27538.74
+    },
+    {
+      "Date": "2019-11-08",
+      "Coin": "Bitcoin",
+      "Price": "8773.73 USD",
+      "Volume": 56517.43
+    },
+    {
+      "Date": "2019-11-07",
+      "Coin": "Bitcoin",
+      "Price": "9216.2 USD",
+      "Volume": 28015.56
+    },
+    {
+      "Date": "2019-11-06",
+      "Coin": "Bitcoin",
+      "Price": "9339.05 USD",
+      "Volume": 34728.86
+    },
+    {
+      "Date": "2019-11-05",
+      "Coin": "Bitcoin",
+      "Price": "9308.66 USD",
+      "Volume": 42441.58
+    },
+    {
+      "Date": "2019-11-04",
+      "Coin": "Bitcoin",
+      "Price": "9393.35 USD",
+      "Volume": 42370.15
+    },
+    {
+      "Date": "2019-11-03",
+      "Coin": "Bitcoin",
+      "Price": "9194.71 USD",
+      "Volume": 25927.76
+    },
+    {
+      "Date": "2019-11-02",
+      "Coin": "Bitcoin",
+      "Price": "9289.52 USD",
+      "Volume": 26942.52
+    },
+    {
+      "Date": "2019-11-01",
+      "Coin": "Bitcoin",
+      "Price": "9231.61 USD",
+      "Volume": 40389.64
+    },
+    {
+      "Date": "2019-10-31",
+      "Coin": "Bitcoin",
+      "Price": "9140.85 USD",
+      "Volume": 49351.8
+    },
+    {
+      "Date": "2019-10-30",
+      "Coin": "Bitcoin",
+      "Price": "9154.72 USD",
+      "Volume": 50546.99
+    },
+    {
+      "Date": "2019-10-29",
+      "Coin": "Bitcoin",
+      "Price": "9407.62 USD",
+      "Volume": 58413.16
+    },
+    {
+      "Date": "2019-10-28",
+      "Coin": "Bitcoin",
+      "Price": "9205.14 USD",
+      "Volume": 72463.52
+    },
+    {
+      "Date": "2019-10-27",
+      "Coin": "Bitcoin",
+      "Price": "9529.93 USD",
+      "Volume": 85188.44
+    },
+    {
+      "Date": "2019-10-26",
+      "Coin": "Bitcoin",
+      "Price": "9230 USD",
+      "Volume": 94762.42
+    },
+    {
+      "Date": "2019-10-25",
+      "Coin": "Bitcoin",
+      "Price": "8655.02 USD",
+      "Volume": 64574.69
+    },
+    {
+      "Date": "2019-10-24",
+      "Coin": "Bitcoin",
+      "Price": "7412.41 USD",
+      "Volume": 30453.61
+    },
+    {
+      "Date": "2019-10-23",
+      "Coin": "Bitcoin",
+      "Price": "7466.62 USD",
+      "Volume": 57616.2
+    },
+    {
+      "Date": "2019-10-22",
+      "Coin": "Bitcoin",
+      "Price": "8020 USD",
+      "Volume": 32201.47
+    },
+    {
+      "Date": "2019-10-21",
+      "Coin": "Bitcoin",
+      "Price": "8197.27 USD",
+      "Volume": 28093
+    },
+    {
+      "Date": "2019-10-20",
+      "Coin": "Bitcoin",
+      "Price": "8223.35 USD",
+      "Volume": 31537.66
+    },
+    {
+      "Date": "2019-10-19",
+      "Coin": "Bitcoin",
+      "Price": "7948.01 USD",
+      "Volume": 24740.87
+    },
+    {
+      "Date": "2019-10-18",
+      "Coin": "Bitcoin",
+      "Price": "7947.01 USD",
+      "Volume": 28525.23
+    },
+    {
+      "Date": "2019-10-17",
+      "Coin": "Bitcoin",
+      "Price": "8070.58 USD",
+      "Volume": 27658.8
+    },
+    {
+      "Date": "2019-10-16",
+      "Coin": "Bitcoin",
+      "Price": "7991.74 USD",
+      "Volume": 31904.36
+    },
+    {
+      "Date": "2019-10-15",
+      "Coin": "Bitcoin",
+      "Price": "8159.29 USD",
+      "Volume": 30284.28
+    },
+    {
+      "Date": "2019-10-14",
+      "Coin": "Bitcoin",
+      "Price": "8348.2 USD",
+      "Volume": 27678.74
+    },
+    {
+      "Date": "2019-10-13",
+      "Coin": "Bitcoin",
+      "Price": "8275.01 USD",
+      "Volume": 25627
+    },
+    {
+      "Date": "2019-10-12",
+      "Coin": "Bitcoin",
+      "Price": "8300.09 USD",
+      "Volume": 20013.51
+    },
+    {
+      "Date": "2019-10-11",
+      "Coin": "Bitcoin",
+      "Price": "8258.5 USD",
+      "Volume": 45745.61
+    },
+    {
+      "Date": "2019-10-10",
+      "Coin": "Bitcoin",
+      "Price": "8558.03 USD",
+      "Volume": 36145.28
+    },
+    {
+      "Date": "2019-10-09",
+      "Coin": "Bitcoin",
+      "Price": "8560.74 USD",
+      "Volume": 50082.36
+    },
+    {
+      "Date": "2019-10-08",
+      "Coin": "Bitcoin",
+      "Price": "8168.39 USD",
+      "Volume": 32771.99
+    },
+    {
+      "Date": "2019-10-07",
+      "Coin": "Bitcoin",
+      "Price": "8190.09 USD",
+      "Volume": 47887.48
+    },
+    {
+      "Date": "2019-10-06",
+      "Coin": "Bitcoin",
+      "Price": "7854.25 USD",
+      "Volume": 31757.23
+    },
+    {
+      "Date": "2019-10-05",
+      "Coin": "Bitcoin",
+      "Price": "8126.19 USD",
+      "Volume": 20640.68
+    },
+    {
+      "Date": "2019-10-04",
+      "Coin": "Bitcoin",
+      "Price": "8137.13 USD",
+      "Volume": 24696.12
+    },
+    {
+      "Date": "2019-10-03",
+      "Coin": "Bitcoin",
+      "Price": "8223.96 USD",
+      "Volume": 28207.53
+    },
+    {
+      "Date": "2019-10-02",
+      "Coin": "Bitcoin",
+      "Price": "8359.94 USD",
+      "Volume": 24413.16
+    },
+    {
+      "Date": "2019-10-01",
+      "Coin": "Bitcoin",
+      "Price": "8292.44 USD",
+      "Volume": 40153.56
+    },
+    {
+      "Date": "2019-09-30",
+      "Coin": "Bitcoin",
+      "Price": "8289.34 USD",
+      "Volume": 51182.65
+    },
+    {
+      "Date": "2019-09-29",
+      "Coin": "Bitcoin",
+      "Price": "8043.82 USD",
+      "Volume": 29234.18
+    },
+    {
+      "Date": "2019-09-28",
+      "Coin": "Bitcoin",
+      "Price": "8198.81 USD",
+      "Volume": 32066.02
+    },
+    {
+      "Date": "2019-09-27",
+      "Coin": "Bitcoin",
+      "Price": "8177.91 USD",
+      "Volume": 40365.1
+    },
+    {
+      "Date": "2019-09-26",
+      "Coin": "Bitcoin",
+      "Price": "8063.73 USD",
+      "Volume": 61361.29
+    },
+    {
+      "Date": "2019-09-25",
+      "Coin": "Bitcoin",
+      "Price": "8430.05 USD",
+      "Volume": 55315.95
+    },
+    {
+      "Date": "2019-09-24",
+      "Coin": "Bitcoin",
+      "Price": "8694.23 USD",
+      "Volume": 41725.81
+    },
+    {
+      "Date": "2019-09-23",
+      "Coin": "Bitcoin",
+      "Price": "9702.25 USD",
+      "Volume": 29213.2
+    },
+    {
+      "Date": "2019-09-22",
+      "Coin": "Bitcoin",
+      "Price": "10028.87 USD",
+      "Volume": 20301.99
+    },
+    {
+      "Date": "2019-09-21",
+      "Coin": "Bitcoin",
+      "Price": "9986.39 USD",
+      "Volume": 18952.99
+    },
+    {
+      "Date": "2019-09-20",
+      "Coin": "Bitcoin",
+      "Price": "10168.59 USD",
+      "Volume": 23318.96
+    },
+    {
+      "Date": "2019-09-12",
+      "Coin": "Bitcoin",
+      "Price": "10415.01 USD",
+      "Volume": 32225.25
+    },
+    {
+      "Date": "2019-09-19",
+      "Coin": "Bitcoin",
+      "Price": "10244.29 USD",
+      "Volume": 41061.71
+    },
+    {
+      "Date": "2019-09-18",
+      "Coin": "Bitcoin",
+      "Price": "10156.99 USD",
+      "Volume": 22586.72
+    },
+    {
+      "Date": "2019-09-17",
+      "Coin": "Bitcoin",
+      "Price": "10187.82 USD",
+      "Volume": 21294.63
+    },
+    {
+      "Date": "2019-09-16",
+      "Coin": "Bitcoin",
+      "Price": "10251.31 USD",
+      "Volume": 26872.29
+    },
+    {
+      "Date": "2019-09-15",
+      "Coin": "Bitcoin",
+      "Price": "10302.01 USD",
+      "Volume": 17051.39
+    },
+    {
+      "Date": "2019-09-14",
+      "Coin": "Bitcoin",
+      "Price": "10335.02 USD",
+      "Volume": 22083.2
+    },
+    {
+      "Date": "2019-09-13",
+      "Coin": "Bitcoin",
+      "Price": "10342.06 USD",
+      "Volume": 28070.03
+    },
+    {
+      "Date": "2019-09-11",
+      "Coin": "Bitcoin",
+      "Price": "10158.33 USD",
+      "Volume": 29837.91
+    },
+    {
+      "Date": "2019-09-10",
+      "Coin": "Bitcoin",
+      "Price": "10098.15 USD",
+      "Volume": 26992.76
+    },
+    {
+      "Date": "2019-09-09",
+      "Coin": "Bitcoin",
+      "Price": "10303.12 USD",
+      "Volume": 37323.98
+    },
+    {
+      "Date": "2019-09-08",
+      "Coin": "Bitcoin",
+      "Price": "10381.18 USD",
+      "Volume": 22178.93
+    },
+    {
+      "Date": "2019-09-07",
+      "Coin": "Bitcoin",
+      "Price": "10455.88 USD",
+      "Volume": 26197.19
+    },
+    {
+      "Date": "2019-09-06",
+      "Coin": "Bitcoin",
+      "Price": "10298.73 USD",
+      "Volume": 53706.62
+    },
+    {
+      "Date": "2019-09-05",
+      "Coin": "Bitcoin",
+      "Price": "10564.49 USD",
+      "Volume": 30904.84
+    },
+    {
+      "Date": "2019-09-04",
+      "Coin": "Bitcoin",
+      "Price": "10567.02 USD",
+      "Volume": 40545.84
+    },
+    {
+      "Date": "2019-09-03",
+      "Coin": "Bitcoin",
+      "Price": "10615.28 USD",
+      "Volume": 43957.34
+    },
+    {
+      "Date": "2019-09-02",
+      "Coin": "Bitcoin",
+      "Price": "10340 USD",
+      "Volume": 41457.04
+    },
+    {
+      "Date": "2019-09-01",
+      "Coin": "Bitcoin",
+      "Price": "9724.98 USD",
+      "Volume": 18309.15
+    },
+    {
+      "Date": "2019-08-31",
+      "Coin": "Bitcoin",
+      "Price": "9587.47 USD",
+      "Volume": 16193.23
+    },
+    {
+      "Date": "2019-08-30",
+      "Coin": "Bitcoin",
+      "Price": "9584.54 USD",
+      "Volume": 25085.2
+    },
+    {
+      "Date": "2019-08-29",
+      "Coin": "Bitcoin",
+      "Price": "9498.44 USD",
+      "Volume": 32797.84
+    },
+    {
+      "Date": "2019-08-28",
+      "Coin": "Bitcoin",
+      "Price": "9721 USD",
+      "Volume": 38610.66
+    },
+    {
+      "Date": "2019-08-27",
+      "Coin": "Bitcoin",
+      "Price": "10185.05 USD",
+      "Volume": 26355.67
+    },
+    {
+      "Date": "2019-08-26",
+      "Coin": "Bitcoin",
+      "Price": "10372.25 USD",
+      "Volume": 38361.62
+    },
+    {
+      "Date": "2019-08-25",
+      "Coin": "Bitcoin",
+      "Price": "10142.69 USD",
+      "Volume": 24434.36
+    },
+    {
+      "Date": "2019-08-24",
+      "Coin": "Bitcoin",
+      "Price": "10134.35 USD",
+      "Volume": 25769.28
+    },
+    {
+      "Date": "2019-08-23",
+      "Coin": "Bitcoin",
+      "Price": "10389.55 USD",
+      "Volume": 25678.08
+    },
+    {
+      "Date": "2019-08-22",
+      "Coin": "Bitcoin",
+      "Price": "10099.88 USD",
+      "Volume": 31668.02
+    },
+    {
+      "Date": "2019-08-21",
+      "Coin": "Bitcoin",
+      "Price": "10142.57 USD",
+      "Volume": 43781.23
+    },
+    {
+      "Date": "2019-08-20",
+      "Coin": "Bitcoin",
+      "Price": "10760.51 USD",
+      "Volume": 30436.73
+    },
+    {
+      "Date": "2019-08-19",
+      "Coin": "Bitcoin",
+      "Price": "10915.54 USD",
+      "Volume": 34691.43
+    },
+    {
+      "Date": "2019-08-18",
+      "Coin": "Bitcoin",
+      "Price": "10306.78 USD",
+      "Volume": 22747.35
+    },
+    {
+      "Date": "2019-08-17",
+      "Coin": "Bitcoin",
+      "Price": "10216.02 USD",
+      "Volume": 26833.97
+    },
+    {
+      "Date": "2019-08-16",
+      "Coin": "Bitcoin",
+      "Price": "10331.54 USD",
+      "Volume": 47471.23
+    },
+    {
+      "Date": "2019-08-15",
+      "Coin": "Bitcoin",
+      "Price": "10293.93 USD",
+      "Volume": 34725.11
+    },
+    {
+      "Date": "2019-08-14",
+      "Coin": "Bitcoin",
+      "Price": "10050.37 USD",
+      "Volume": 49924.64
+    },
+    {
+      "Date": "2019-08-13",
+      "Coin": "Bitcoin",
+      "Price": "10892.71 USD",
+      "Volume": 30701.79
+    },
+    {
+      "Date": "2019-08-12",
+      "Coin": "Bitcoin",
+      "Price": "11396.08 USD",
+      "Volume": 16354.98
+    },
+    {
+      "Date": "2019-08-11",
+      "Coin": "Bitcoin",
+      "Price": "11549.97 USD",
+      "Volume": 24863.2
+    },
+    {
+      "Date": "2019-08-10",
+      "Coin": "Bitcoin",
+      "Price": "11309.31 USD",
+      "Volume": 39142.5
+    },
+    {
+      "Date": "2019-08-09",
+      "Coin": "Bitcoin",
+      "Price": "11879.99 USD",
+      "Volume": 36781.9
+    },
+    {
+      "Date": "2019-08-08",
+      "Coin": "Bitcoin",
+      "Price": "11999.77 USD",
+      "Volume": 47773.39
+    },
+    {
+      "Date": "2019-08-07",
+      "Coin": "Bitcoin",
+      "Price": "11975.03 USD",
+      "Volume": 63842.27
+    },
+    {
+      "Date": "2019-08-06",
+      "Coin": "Bitcoin",
+      "Price": "11481.69 USD",
+      "Volume": 69745.18
+    },
+    {
+      "Date": "2019-08-05",
+      "Coin": "Bitcoin",
+      "Price": "11828.8 USD",
+      "Volume": 59656.47
+    },
+    {
+      "Date": "2019-08-04",
+      "Coin": "Bitcoin",
+      "Price": "10929.23 USD",
+      "Volume": 36994.61
+    },
+    {
+      "Date": "2019-08-03",
+      "Coin": "Bitcoin",
+      "Price": "10816.86 USD",
+      "Volume": 31480.04
+    },
+    {
+      "Date": "2019-08-02",
+      "Coin": "Bitcoin",
+      "Price": "10523.75 USD",
+      "Volume": 39435.04
+    },
+    {
+      "Date": "2019-08-01",
+      "Coin": "Bitcoin",
+      "Price": "10374.99 USD",
+      "Volume": 38427.59
+    },
+    {
+      "Date": "2019-07-31",
+      "Coin": "Bitcoin",
+      "Price": "10080.53 USD",
+      "Volume": 36698.32
+    },
+    {
+      "Date": "2019-07-30",
+      "Coin": "Bitcoin",
+      "Price": "9574.21 USD",
+      "Volume": 30751.86
+    },
+    {
+      "Date": "2019-07-29",
+      "Coin": "Bitcoin",
+      "Price": "9507.64 USD",
+      "Volume": 26899.31
+    },
+    {
+      "Date": "2019-07-28",
+      "Coin": "Bitcoin",
+      "Price": "9541.54 USD",
+      "Volume": 27370.91
+    },
+    {
+      "Date": "2019-07-27",
+      "Coin": "Bitcoin",
+      "Price": "9476.52 USD",
+      "Volume": 32649.21
+    },
+    {
+      "Date": "2019-07-26",
+      "Coin": "Bitcoin",
+      "Price": "9824 USD",
+      "Volume": 19683.49
+    },
+    {
+      "Date": "2019-07-25",
+      "Coin": "Bitcoin",
+      "Price": "9879.87 USD",
+      "Volume": 35044.58
+    },
+    {
+      "Date": "2019-07-24",
+      "Coin": "Bitcoin",
+      "Price": "9763.28 USD",
+      "Volume": 40201.05
+    },
+    {
+      "Date": "2019-07-23",
+      "Coin": "Bitcoin",
+      "Price": "9864.91 USD",
+      "Volume": 43700.7
+    },
+    {
+      "Date": "2019-07-22",
+      "Coin": "Bitcoin",
+      "Price": "10340.31 USD",
+      "Volume": 37396.36
+    },
+    {
+      "Date": "2019-07-21",
+      "Coin": "Bitcoin",
+      "Price": "10589.45 USD",
+      "Volume": 35913.86
+    },
+    {
+      "Date": "2019-07-20",
+      "Coin": "Bitcoin",
+      "Price": "10740.23 USD",
+      "Volume": 43505.28
+    },
+    {
+      "Date": "2019-07-19",
+      "Coin": "Bitcoin",
+      "Price": "10504.29 USD",
+      "Volume": 51296.32
+    },
+    {
+      "Date": "2019-07-18",
+      "Coin": "Bitcoin",
+      "Price": "10627.16 USD",
+      "Volume": 72758.54
+    },
+    {
+      "Date": "2019-07-17",
+      "Coin": "Bitcoin",
+      "Price": "9667.92 USD",
+      "Volume": 76851.7
+    },
+    {
+      "Date": "2019-07-16",
+      "Coin": "Bitcoin",
+      "Price": "9439.59 USD",
+      "Volume": 87204.22
+    },
+    {
+      "Date": "2019-07-15",
+      "Coin": "Bitcoin",
+      "Price": "10838.72 USD",
+      "Volume": 74379.9
+    },
+    {
+      "Date": "2019-07-14",
+      "Coin": "Bitcoin",
+      "Price": "10174.18 USD",
+      "Volume": 65592.98
+    },
+    {
+      "Date": "2019-07-13",
+      "Coin": "Bitcoin",
+      "Price": "11355.76 USD",
+      "Volume": 49185.81
+    },
+    {
+      "Date": "2019-07-12",
+      "Coin": "Bitcoin",
+      "Price": "11757.22 USD",
+      "Volume": 51706.88
+    },
+    {
+      "Date": "2019-07-11",
+      "Coin": "Bitcoin",
+      "Price": "11342.89 USD",
+      "Volume": 79149.22
+    },
+    {
+      "Date": "2019-07-10",
+      "Coin": "Bitcoin",
+      "Price": "12108.37 USD",
+      "Volume": 98461.1
+    },
+    {
+      "Date": "2019-07-09",
+      "Coin": "Bitcoin",
+      "Price": "12543.41 USD",
+      "Volume": 71968.89
+    },
+    {
+      "Date": "2019-07-08",
+      "Coin": "Bitcoin",
+      "Price": "12238.6 USD",
+      "Volume": 47820.5
+    },
+    {
+      "Date": "2019-07-07",
+      "Coin": "Bitcoin",
+      "Price": "11406.24 USD",
+      "Volume": 36004.78
+    },
+    {
+      "Date": "2019-07-06",
+      "Coin": "Bitcoin",
+      "Price": "11256.49 USD",
+      "Volume": 47363.72
+    },
+    {
+      "Date": "2019-07-05",
+      "Coin": "Bitcoin",
+      "Price": "10970.73 USD",
+      "Volume": 58437.08
+    },
+    {
+      "Date": "2019-07-04",
+      "Coin": "Bitcoin",
+      "Price": "11145.67 USD",
+      "Volume": 60649.46
+    },
+    {
+      "Date": "2019-07-03",
+      "Coin": "Bitcoin",
+      "Price": "11940 USD",
+      "Volume": 87772.38
+    },
+    {
+      "Date": "2019-07-02",
+      "Coin": "Bitcoin",
+      "Price": "10842.85 USD",
+      "Volume": 99213.02
+    },
+    {
+      "Date": "2019-07-01",
+      "Coin": "Bitcoin",
+      "Price": "10624.93 USD",
+      "Volume": 82471.39
+    },
+    {
+      "Date": "2019-06-30",
+      "Coin": "Bitcoin",
+      "Price": "10854.1 USD",
+      "Volume": 77205.72
+    },
+    {
+      "Date": "2019-06-29",
+      "Coin": "Bitcoin",
+      "Price": "11903.13 USD",
+      "Volume": 63232.82
+    },
+    {
+      "Date": "2019-06-28",
+      "Coin": "Bitcoin",
+      "Price": "12400.63 USD",
+      "Volume": 86558.62
+    },
+    {
+      "Date": "2019-06-27",
+      "Coin": "Bitcoin",
+      "Price": "11329.99 USD",
+      "Volume": 138662.72
+    },
+    {
+      "Date": "2019-06-26",
+      "Coin": "Bitcoin",
+      "Price": "12666.45 USD",
+      "Volume": 99314.94
+    },
+    {
+      "Date": "2019-06-25",
+      "Coin": "Bitcoin",
+      "Price": "11820.86 USD",
+      "Volume": 56154.67
+    },
+    {
+      "Date": "2019-06-24",
+      "Coin": "Bitcoin",
+      "Price": "11056.59 USD",
+      "Volume": 39940.55
+    },
+    {
+      "Date": "2019-06-23",
+      "Coin": "Bitcoin",
+      "Price": "10906.07 USD",
+      "Volume": 52581.13
+    },
+    {
+      "Date": "2019-06-22",
+      "Coin": "Bitcoin",
+      "Price": "10729.5 USD",
+      "Volume": 94759.31
+    },
+    {
+      "Date": "2019-06-21",
+      "Coin": "Bitcoin",
+      "Price": "10159.86 USD",
+      "Volume": 46590.64
+    },
+    {
+      "Date": "2019-06-20",
+      "Coin": "Bitcoin",
+      "Price": "9517.12 USD",
+      "Volume": 32120
+    },
+    {
+      "Date": "2019-06-19",
+      "Coin": "Bitcoin",
+      "Price": "9255.49 USD",
+      "Volume": 29859.81
+    },
+    {
+      "Date": "2019-06-18",
+      "Coin": "Bitcoin",
+      "Price": "9081.55 USD",
+      "Volume": 48158.99
+    },
+    {
+      "Date": "2019-06-17",
+      "Coin": "Bitcoin",
+      "Price": "9313.96 USD",
+      "Volume": 44294.61
+    },
+    {
+      "Date": "2019-06-16",
+      "Coin": "Bitcoin",
+      "Price": "8953.33 USD",
+      "Volume": 57848.65
+    },
+    {
+      "Date": "2019-06-15",
+      "Coin": "Bitcoin",
+      "Price": "8808.7 USD",
+      "Volume": 29573.08
+    },
+    {
+      "Date": "2019-06-14",
+      "Coin": "Bitcoin",
+      "Price": "8650 USD",
+      "Volume": 36987.67
+    },
+    {
+      "Date": "2019-06-13",
+      "Coin": "Bitcoin",
+      "Price": "8218.54 USD",
+      "Volume": 28621.28
+    },
+    {
+      "Date": "2019-06-12",
+      "Coin": "Bitcoin",
+      "Price": "8127.64 USD",
+      "Volume": 38855.34
+    },
+    {
+      "Date": "2019-06-11",
+      "Coin": "Bitcoin",
+      "Price": "7884.9 USD",
+      "Volume": 28578.92
+    },
+    {
+      "Date": "2019-06-10",
+      "Coin": "Bitcoin",
+      "Price": "7982.75 USD",
+      "Volume": 34292
+    },
+    {
+      "Date": "2019-06-09",
+      "Coin": "Bitcoin",
+      "Price": "7628.13 USD",
+      "Volume": 29536.44
+    },
+    {
+      "Date": "2019-06-08",
+      "Coin": "Bitcoin",
+      "Price": "7893.62 USD",
+      "Volume": 21204.89
+    },
+    {
+      "Date": "2019-06-07",
+      "Coin": "Bitcoin",
+      "Price": "7980.53 USD",
+      "Volume": 31779.24
+    },
+    {
+      "Date": "2019-06-06",
+      "Coin": "Bitcoin",
+      "Price": "7786.7 USD",
+      "Volume": 34197.03
+    },
+    {
+      "Date": "2019-06-05",
+      "Coin": "Bitcoin",
+      "Price": "7776.5 USD",
+      "Volume": 45638.79
+    },
+    {
+      "Date": "2019-06-04",
+      "Coin": "Bitcoin",
+      "Price": "7687.03 USD",
+      "Volume": 68681.2
+    },
+    {
+      "Date": "2019-06-03",
+      "Coin": "Bitcoin",
+      "Price": "8115.82 USD",
+      "Volume": 41950.41
+    },
+    {
+      "Date": "2019-06-02",
+      "Coin": "Bitcoin",
+      "Price": "8725.98 USD",
+      "Volume": 26036.64
+    },
+    {
+      "Date": "2019-06-01",
+      "Coin": "Bitcoin",
+      "Price": "8544.07 USD",
+      "Volume": 29819.78
+    },
+    {
+      "Date": "2019-05-31",
+      "Coin": "Bitcoin",
+      "Price": "8555 USD",
+      "Volume": 42002.51
+    },
+    {
+      "Date": "2019-05-30",
+      "Coin": "Bitcoin",
+      "Price": "8269.54 USD",
+      "Volume": 64399.1
+    },
+    {
+      "Date": "2019-05-29",
+      "Coin": "Bitcoin",
+      "Price": "8645.68 USD",
+      "Volume": 31678.55
+    },
+    {
+      "Date": "2019-05-28",
+      "Coin": "Bitcoin",
+      "Price": "8715.64 USD",
+      "Volume": 29271.88
+    },
+    {
+      "Date": "2019-05-27",
+      "Coin": "Bitcoin",
+      "Price": "8756.32 USD",
+      "Volume": 48130.74
+    },
+    {
+      "Date": "2019-05-26",
+      "Coin": "Bitcoin",
+      "Price": "8614.43 USD",
+      "Volume": 45563.09
+    },
+    {
+      "Date": "2019-05-25",
+      "Coin": "Bitcoin",
+      "Price": "8025.41 USD",
+      "Volume": 26723.83
+    },
+    {
+      "Date": "2019-05-24",
+      "Coin": "Bitcoin",
+      "Price": "7964.87 USD",
+      "Volume": 43030.86
+    },
+    {
+      "Date": "2019-05-23",
+      "Coin": "Bitcoin",
+      "Price": "7851.51 USD",
+      "Volume": 45812.94
+    },
+    {
+      "Date": "2019-05-11",
+      "Coin": "Bitcoin",
+      "Price": "7076.22 USD",
+      "Volume": 67682.9
+    },
+    {
+      "Date": "2019-05-22",
+      "Coin": "Bitcoin",
+      "Price": "7628.43 USD",
+      "Volume": 44932.03
+    },
+    {
+      "Date": "2019-05-21",
+      "Coin": "Bitcoin",
+      "Price": "7904.87 USD",
+      "Volume": 48176.42
+    },
+    {
+      "Date": "2019-05-20",
+      "Coin": "Bitcoin",
+      "Price": "7938.15 USD",
+      "Volume": 60143.13
+    },
+    {
+      "Date": "2019-05-19",
+      "Coin": "Bitcoin",
+      "Price": "8148.48 USD",
+      "Volume": 60083.99
+    },
+    {
+      "Date": "2019-05-18",
+      "Coin": "Bitcoin",
+      "Price": "7257.45 USD",
+      "Volume": 34487.27
+    },
+    {
+      "Date": "2019-05-17",
+      "Coin": "Bitcoin",
+      "Price": "7355.26 USD",
+      "Volume": 79962.44
+    },
+    {
+      "Date": "2019-05-16",
+      "Coin": "Bitcoin",
+      "Price": "7866.59 USD",
+      "Volume": 63794.9
+    },
+    {
+      "Date": "2019-05-15",
+      "Coin": "Bitcoin",
+      "Price": "8169.87 USD",
+      "Volume": 34731.71
+    },
+    {
+      "Date": "2019-05-14",
+      "Coin": "Bitcoin",
+      "Price": "7947.56 USD",
+      "Volume": 70462.03
+    },
+    {
+      "Date": "2019-05-13",
+      "Coin": "Bitcoin",
+      "Price": "7790.71 USD",
+      "Volume": 77581.62
+    },
+    {
+      "Date": "2019-05-12",
+      "Coin": "Bitcoin",
+      "Price": "6967.31 USD",
+      "Volume": 78631.74
+    },
+    {
+      "Date": "2019-05-10",
+      "Coin": "Bitcoin",
+      "Price": "6373.33 USD",
+      "Volume": 34420.48
+    },
+    {
+      "Date": "2019-05-09",
+      "Coin": "Bitcoin",
+      "Price": "6209.18 USD",
+      "Volume": 26099.02
+    },
+    {
+      "Date": "2019-05-08",
+      "Coin": "Bitcoin",
+      "Price": "5987.29 USD",
+      "Volume": 21715.92
+    },
+    {
+      "Date": "2019-05-07",
+      "Coin": "Bitcoin",
+      "Price": "5962.16 USD",
+      "Volume": 16169.61
+    },
+    {
+      "Date": "2019-05-06",
+      "Coin": "Bitcoin",
+      "Price": "5747.79 USD",
+      "Volume": 23734.53
+    },
+    {
+      "Date": "2019-05-05",
+      "Coin": "Bitcoin",
+      "Price": "5775.62 USD",
+      "Volume": 22600.15
+    },
+    {
+      "Date": "2019-05-04",
+      "Coin": "Bitcoin",
+      "Price": "5829.45 USD",
+      "Volume": 37187.2
+    },
+    {
+      "Date": "2019-05-03",
+      "Coin": "Bitcoin",
+      "Price": "5772.69 USD",
+      "Volume": 42758.75
+    },
+    {
+      "Date": "2019-05-02",
+      "Coin": "Bitcoin",
+      "Price": "5492.87 USD",
+      "Volume": 21609.98
+    },
+    {
+      "Date": "2019-05-01",
+      "Coin": "Bitcoin",
+      "Price": "5383.2 USD",
+      "Volume": 16414.57
+    },
+    {
+      "Date": "2019-04-30",
+      "Coin": "Bitcoin",
+      "Price": "5320.81 USD",
+      "Volume": 21159.12
+    },
+    {
+      "Date": "2019-04-29",
+      "Coin": "Bitcoin",
+      "Price": "5238.14 USD",
+      "Volume": 18749.14
+    },
+    {
+      "Date": "2019-04-28",
+      "Coin": "Bitcoin",
+      "Price": "5307.52 USD",
+      "Volume": 13696.93
+    },
+    {
+      "Date": "2019-04-27",
+      "Coin": "Bitcoin",
+      "Price": "5295.69 USD",
+      "Volume": 14797.5
+    },
+    {
+      "Date": "2019-04-26",
+      "Coin": "Bitcoin",
+      "Price": "5314.1 USD",
+      "Volume": 45512.58
+    },
+    {
+      "Date": "2019-04-25",
+      "Coin": "Bitcoin",
+      "Price": "5219.9 USD",
+      "Volume": 46048.68
+    },
+    {
+      "Date": "2019-04-24",
+      "Coin": "Bitcoin",
+      "Price": "5415 USD",
+      "Volume": 44561.97
+    },
+    {
+      "Date": "2019-04-23",
+      "Coin": "Bitcoin",
+      "Price": "5493.31 USD",
+      "Volume": 38259.59
+    },
+    {
+      "Date": "2019-04-22",
+      "Coin": "Bitcoin",
+      "Price": "5357.14 USD",
+      "Volume": 27894.99
+    },
+    {
+      "Date": "2019-04-21",
+      "Coin": "Bitcoin",
+      "Price": "5256.14 USD",
+      "Volume": 23874.51
+    },
+    {
+      "Date": "2019-04-20",
+      "Coin": "Bitcoin",
+      "Price": "5291.73 USD",
+      "Volume": 18295.89
+    },
+    {
+      "Date": "2019-04-19",
+      "Coin": "Bitcoin",
+      "Price": "5258.68 USD",
+      "Volume": 23278.77
+    },
+    {
+      "Date": "2019-04-18",
+      "Coin": "Bitcoin",
+      "Price": "5258.44 USD",
+      "Volume": 21480.81
+    },
+    {
+      "Date": "2019-04-17",
+      "Coin": "Bitcoin",
+      "Price": "5202.82 USD",
+      "Volume": 21987.23
+    },
+    {
+      "Date": "2019-04-16",
+      "Coin": "Bitcoin",
+      "Price": "5173.72 USD",
+      "Volume": 22808.7
+    },
+    {
+      "Date": "2019-04-15",
+      "Coin": "Bitcoin",
+      "Price": "5024.95 USD",
+      "Volume": 27252.83
+    },
+    {
+      "Date": "2019-04-14",
+      "Coin": "Bitcoin",
+      "Price": "5131.3 USD",
+      "Volume": 17426.87
+    },
+    {
+      "Date": "2019-04-13",
+      "Coin": "Bitcoin",
+      "Price": "5045.22 USD",
+      "Volume": 16562.14
+    },
+    {
+      "Date": "2019-04-12",
+      "Coin": "Bitcoin",
+      "Price": "5048.01 USD",
+      "Volume": 31219.92
+    },
+    {
+      "Date": "2019-04-11",
+      "Coin": "Bitcoin",
+      "Price": "5017.37 USD",
+      "Volume": 50271.11
+    },
+    {
+      "Date": "2019-04-10",
+      "Coin": "Bitcoin",
+      "Price": "5308.25 USD",
+      "Volume": 37063.21
+    },
+    {
+      "Date": "2019-04-09",
+      "Coin": "Bitcoin",
+      "Price": "5150 USD",
+      "Volume": 31781.31
+    },
+    {
+      "Date": "2019-04-08",
+      "Coin": "Bitcoin",
+      "Price": "5236.9 USD",
+      "Volume": 46325.63
+    },
+    {
+      "Date": "2019-04-07",
+      "Coin": "Bitcoin",
+      "Price": "5170.27 USD",
+      "Volume": 35027.71
+    },
+    {
+      "Date": "2019-04-06",
+      "Coin": "Bitcoin",
+      "Price": "5043.89 USD",
+      "Volume": 38455.22
+    },
+    {
+      "Date": "2019-04-05",
+      "Coin": "Bitcoin",
+      "Price": "5004.95 USD",
+      "Volume": 37248.36
+    },
+    {
+      "Date": "2019-04-04",
+      "Coin": "Bitcoin",
+      "Price": "4898.66 USD",
+      "Volume": 56271.11
+    },
+    {
+      "Date": "2019-04-03",
+      "Coin": "Bitcoin",
+      "Price": "4932.6 USD",
+      "Volume": 98509.76
+    },
+    {
+      "Date": "2019-04-02",
+      "Coin": "Bitcoin",
+      "Price": "4857.29 USD",
+      "Volume": 94625.11
+    },
+    {
+      "Date": "2019-04-01",
+      "Coin": "Bitcoin",
+      "Price": "4144.56 USD",
+      "Volume": 23934.61
+    },
+    {
+      "Date": "2019-03-19",
+      "Coin": "Bitcoin",
+      "Price": "3998.9 USD",
+      "Volume": 943.68
+    },
+    {
+      "Date": "2019-03-18",
+      "Coin": "Bitcoin",
+      "Price": "3987.81 USD",
+      "Volume": 21381.83
+    },
+    {
+      "Date": "2019-03-17",
+      "Coin": "Bitcoin",
+      "Price": "3981.14 USD",
+      "Volume": 18102.89
+    },
+    {
+      "Date": "2019-03-16",
+      "Coin": "Bitcoin",
+      "Price": "4005.98 USD",
+      "Volume": 26886.25
+    },
+    {
+      "Date": "2019-03-15",
+      "Coin": "Bitcoin",
+      "Price": "3923.76 USD",
+      "Volume": 20766.29
+    },
+    {
+      "Date": "2019-03-14",
+      "Coin": "Bitcoin",
+      "Price": "3877.12 USD",
+      "Volume": 25316.25
+    },
+    {
+      "Date": "2019-03-13",
+      "Coin": "Bitcoin",
+      "Price": "3866 USD",
+      "Volume": 23349.97
+    },
+    {
+      "Date": "2019-03-12",
+      "Coin": "Bitcoin",
+      "Price": "3882.73 USD",
+      "Volume": 25517.64
+    },
+    {
+      "Date": "2019-03-11",
+      "Coin": "Bitcoin",
+      "Price": "3871.61 USD",
+      "Volume": 35945.48
+    },
+    {
+      "Date": "2019-03-10",
+      "Coin": "Bitcoin",
+      "Price": "3916.82 USD",
+      "Volume": 22134.42
+    },
+    {
+      "Date": "2019-03-09",
+      "Coin": "Bitcoin",
+      "Price": "3943.04 USD",
+      "Volume": 29345.08
+    },
+    {
+      "Date": "2019-03-08",
+      "Coin": "Bitcoin",
+      "Price": "3864.89 USD",
+      "Volume": 32646.03
+    },
+    {
+      "Date": "2019-03-07",
+      "Coin": "Bitcoin",
+      "Price": "3873.64 USD",
+      "Volume": 25223.89
+    },
+    {
+      "Date": "2019-03-06",
+      "Coin": "Bitcoin",
+      "Price": "3861.84 USD",
+      "Volume": 23217.87
+    },
+    {
+      "Date": "2019-03-05",
+      "Coin": "Bitcoin",
+      "Price": "3857.73 USD",
+      "Volume": 30814.57
+    },
+    {
+      "Date": "2019-03-04",
+      "Coin": "Bitcoin",
+      "Price": "3715.3 USD",
+      "Volume": 32609.38
+    },
+    {
+      "Date": "2019-03-03",
+      "Coin": "Bitcoin",
+      "Price": "3807.75 USD",
+      "Volume": 15984.76
+    },
+    {
+      "Date": "2019-03-02",
+      "Coin": "Bitcoin",
+      "Price": "3819.93 USD",
+      "Volume": 18494.08
+    },
+    {
+      "Date": "2019-03-01",
+      "Coin": "Bitcoin",
+      "Price": "3823 USD",
+      "Volume": 22279.3
+    },
+    {
+      "Date": "2019-02-28",
+      "Coin": "Bitcoin",
+      "Price": "3813.69 USD",
+      "Volume": 30671.7
+    },
+    {
+      "Date": "2019-02-27",
+      "Coin": "Bitcoin",
+      "Price": "3818.07 USD",
+      "Volume": 29414.85
+    },
+    {
+      "Date": "2019-02-26",
+      "Coin": "Bitcoin",
+      "Price": "3809.23 USD",
+      "Volume": 27290.26
+    },
+    {
+      "Date": "2019-02-25",
+      "Coin": "Bitcoin",
+      "Price": "3827.92 USD",
+      "Volume": 36041.94
+    },
+    {
+      "Date": "2019-02-24",
+      "Coin": "Bitcoin",
+      "Price": "3743.56 USD",
+      "Volume": 57263.85
+    },
+    {
+      "Date": "2019-02-23",
+      "Coin": "Bitcoin",
+      "Price": "4117.76 USD",
+      "Volume": 31093.41
+    },
+    {
+      "Date": "2019-02-22",
+      "Coin": "Bitcoin",
+      "Price": "3962 USD",
+      "Volume": 22768.18
+    },
+    {
+      "Date": "2019-02-21",
+      "Coin": "Bitcoin",
+      "Price": "3937.31 USD",
+      "Volume": 29171.27
+    },
+    {
+      "Date": "2019-02-20",
+      "Coin": "Bitcoin",
+      "Price": "3969.74 USD",
+      "Volume": 34310.79
+    },
+    {
+      "Date": "2019-02-19",
+      "Coin": "Bitcoin",
+      "Price": "3907.79 USD",
+      "Volume": 46824.36
+    },
+    {
+      "Date": "2019-02-18",
+      "Coin": "Bitcoin",
+      "Price": "3898.6 USD",
+      "Volume": 59288.85
+    },
+    {
+      "Date": "2019-02-17",
+      "Coin": "Bitcoin",
+      "Price": "3667.58 USD",
+      "Volume": 24263.28
+    },
+    {
+      "Date": "2019-02-16",
+      "Coin": "Bitcoin",
+      "Price": "3618.41 USD",
+      "Volume": 18663.59
+    },
+    {
+      "Date": "2019-02-15",
+      "Coin": "Bitcoin",
+      "Price": "3602.47 USD",
+      "Volume": 19769.69
+    },
+    {
+      "Date": "2019-02-14",
+      "Coin": "Bitcoin",
+      "Price": "3590.56 USD",
+      "Volume": 20761.21
+    },
+    {
+      "Date": "2019-02-13",
+      "Coin": "Bitcoin",
+      "Price": "3609.4 USD",
+      "Volume": 24611.21
+    },
+    {
+      "Date": "2019-02-12",
+      "Coin": "Bitcoin",
+      "Price": "3631.46 USD",
+      "Volume": 27762.12
+    },
+    {
+      "Date": "2019-02-11",
+      "Coin": "Bitcoin",
+      "Price": "3631.05 USD",
+      "Volume": 23745.31
+    },
+    {
+      "Date": "2019-02-10",
+      "Coin": "Bitcoin",
+      "Price": "3680.06 USD",
+      "Volume": 22082.81
+    },
+    {
+      "Date": "2019-02-09",
+      "Coin": "Bitcoin",
+      "Price": "3665.18 USD",
+      "Volume": 23735.25
+    },
+    {
+      "Date": "2019-02-08",
+      "Coin": "Bitcoin",
+      "Price": "3659.04 USD",
+      "Volume": 42214.12
+    },
+    {
+      "Date": "2019-02-07",
+      "Coin": "Bitcoin",
+      "Price": "3398.4 USD",
+      "Volume": 17480.03
+    },
+    {
+      "Date": "2019-02-06",
+      "Coin": "Bitcoin",
+      "Price": "3405.37 USD",
+      "Volume": 31770.65
+    },
+    {
+      "Date": "2019-02-05",
+      "Coin": "Bitcoin",
+      "Price": "3471.59 USD",
+      "Volume": 23887.57
+    },
+    {
+      "Date": "2019-02-04",
+      "Coin": "Bitcoin",
+      "Price": "3463.22 USD",
+      "Volume": 22042.4
+    },
+    {
+      "Date": "2019-02-03",
+      "Coin": "Bitcoin",
+      "Price": "3458.11 USD",
+      "Volume": 18877.23
+    },
+    {
+      "Date": "2019-02-02",
+      "Coin": "Bitcoin",
+      "Price": "3504.77 USD",
+      "Volume": 16992.58
+    },
+    {
+      "Date": "2019-02-01",
+      "Coin": "Bitcoin",
+      "Price": "3462.07 USD",
+      "Volume": 23916.44
+    },
+    {
+      "Date": "2019-01-31",
+      "Coin": "Bitcoin",
+      "Price": "3434.1 USD",
+      "Volume": 27928.55
+    },
+    {
+      "Date": "2019-01-30",
+      "Coin": "Bitcoin",
+      "Price": "3458.18 USD",
+      "Volume": 22692.88
+    },
+    {
+      "Date": "2019-01-29",
+      "Coin": "Bitcoin",
+      "Price": "3411.04 USD",
+      "Volume": 27562.68
+    },
+    {
+      "Date": "2019-01-28",
+      "Coin": "Bitcoin",
+      "Price": "3434.15 USD",
+      "Volume": 37359.71
+    },
+    {
+      "Date": "2019-01-27",
+      "Coin": "Bitcoin",
+      "Price": "3550.84 USD",
+      "Volume": 20433.19
+    },
+    {
+      "Date": "2019-01-26",
+      "Coin": "Bitcoin",
+      "Price": "3565.25 USD",
+      "Volume": 17673.42
+    },
+    {
+      "Date": "2019-01-25",
+      "Coin": "Bitcoin",
+      "Price": "3565.29 USD",
+      "Volume": 16546.4
+    },
+    {
+      "Date": "2019-01-24",
+      "Coin": "Bitcoin",
+      "Price": "3569.62 USD",
+      "Volume": 19692.71
+    },
+    {
+      "Date": "2019-01-23",
+      "Coin": "Bitcoin",
+      "Price": "3552.82 USD",
+      "Volume": 23071.74
+    },
+    {
+      "Date": "2019-01-22",
+      "Coin": "Bitcoin",
+      "Price": "3570.93 USD",
+      "Volume": 25231.55
+    },
+    {
+      "Date": "2019-01-21",
+      "Coin": "Bitcoin",
+      "Price": "3526.9 USD",
+      "Volume": 18434.38
+    },
+    {
+      "Date": "2019-01-20",
+      "Coin": "Bitcoin",
+      "Price": "3539.28 USD",
+      "Volume": 23551.29
+    },
+    {
+      "Date": "2019-01-19",
+      "Coin": "Bitcoin",
+      "Price": "3665.3 USD",
+      "Volume": 18624.79
+    },
+    {
+      "Date": "2019-01-18",
+      "Coin": "Bitcoin",
+      "Price": "3594.87 USD",
+      "Volume": 21672.42
+    },
+    {
+      "Date": "2019-01-17",
+      "Coin": "Bitcoin",
+      "Price": "3616.21 USD",
+      "Volume": 27614.97
+    },
+    {
+      "Date": "2019-01-16",
+      "Coin": "Bitcoin",
+      "Price": "3591.84 USD",
+      "Volume": 25757.79
+    },
+    {
+      "Date": "2019-01-15",
+      "Coin": "Bitcoin",
+      "Price": "3553.06 USD",
+      "Volume": 30770.45
+    },
+    {
+      "Date": "2019-01-14",
+      "Coin": "Bitcoin",
+      "Price": "3626.09 USD",
+      "Volume": 31190.38
+    },
+    {
+      "Date": "2019-01-13",
+      "Coin": "Bitcoin",
+      "Price": "3476.81 USD",
+      "Volume": 22754.41
+    },
+    {
+      "Date": "2019-01-12",
+      "Coin": "Bitcoin",
+      "Price": "3583.13 USD",
+      "Volume": 20541.52
+    },
+    {
+      "Date": "2019-01-11",
+      "Coin": "Bitcoin",
+      "Price": "3601.31 USD",
+      "Volume": 34260.22
+    },
+    {
+      "Date": "2019-01-10",
+      "Coin": "Bitcoin",
+      "Price": "3585.88 USD",
+      "Volume": 47895.41
+    },
+    {
+      "Date": "2019-01-09",
+      "Coin": "Bitcoin",
+      "Price": "3966.65 USD",
+      "Volume": 27503.63
+    },
+    {
+      "Date": "2019-01-08",
+      "Coin": "Bitcoin",
+      "Price": "3955.13 USD",
+      "Volume": 34365.46
+    },
+    {
+      "Date": "2019-01-07",
+      "Coin": "Bitcoin",
+      "Price": "3975.45 USD",
+      "Volume": 29452.09
+    },
+    {
+      "Date": "2019-01-06",
+      "Coin": "Bitcoin",
+      "Price": "3987.6 USD",
+      "Volume": 32566.9
+    },
+    {
+      "Date": "2019-01-05",
+      "Coin": "Bitcoin",
+      "Price": "3770.96 USD",
+      "Volume": 28675.53
+    },
+    {
+      "Date": "2019-01-04",
+      "Coin": "Bitcoin",
+      "Price": "3792.01 USD",
+      "Volume": 27721.3
+    },
+    {
+      "Date": "2019-01-03",
+      "Coin": "Bitcoin",
+      "Price": "3766.78 USD",
+      "Volume": 27461.97
+    },
+    {
+      "Date": "2019-01-02",
+      "Coin": "Bitcoin",
+      "Price": "3858.56 USD",
+      "Volume": 33035.13
+    },
+    {
+      "Date": "2019-01-01",
+      "Coin": "Bitcoin",
+      "Price": "3797.14 USD",
+      "Volume": 22043.98
+    },
+    {
+      "Date": "2018-12-31",
+      "Coin": "Bitcoin",
+      "Price": "3702.9 USD",
+      "Volume": 27000
+    },
+    {
+      "Date": "2018-12-30",
+      "Coin": "Bitcoin",
+      "Price": "3801.91 USD",
+      "Volume": 30282.17
+    },
+    {
+      "Date": "2018-12-29",
+      "Coin": "Bitcoin",
+      "Price": "3695.32 USD",
+      "Volume": 34488.38
+    },
+    {
+      "Date": "2018-12-28",
+      "Coin": "Bitcoin",
+      "Price": "3839.26 USD",
+      "Volume": 40839.17
+    },
+    {
+      "Date": "2018-12-27",
+      "Coin": "Bitcoin",
+      "Price": "3567.91 USD",
+      "Volume": 40266.32
+    },
+    {
+      "Date": "2018-12-26",
+      "Coin": "Bitcoin",
+      "Price": "3777.74 USD",
+      "Volume": 39961.75
+    },
+    {
+      "Date": "2018-12-25",
+      "Coin": "Bitcoin",
+      "Price": "3745.79 USD",
+      "Volume": 56383.4
+    },
+    {
+      "Date": "2018-12-24",
+      "Coin": "Bitcoin",
+      "Price": "4008.01 USD",
+      "Volume": 58403.15
+    },
+    {
+      "Date": "2018-12-23",
+      "Coin": "Bitcoin",
+      "Price": "3929.71 USD",
+      "Volume": 37881.01
+    },
+    {
+      "Date": "2018-12-22",
+      "Coin": "Bitcoin",
+      "Price": "3948.91 USD",
+      "Volume": 40231.99
+    },
+    {
+      "Date": "2018-12-21",
+      "Coin": "Bitcoin",
+      "Price": "3838.66 USD",
+      "Volume": 75158.54
+    },
+    {
+      "Date": "2018-12-20",
+      "Coin": "Bitcoin",
+      "Price": "4049.62 USD",
+      "Volume": 89802.98
+    },
+    {
+      "Date": "2018-12-19",
+      "Coin": "Bitcoin",
+      "Price": "3662.22 USD",
+      "Volume": 85810.88
+    },
+    {
+      "Date": "2018-12-18",
+      "Coin": "Bitcoin",
+      "Price": "3652.98 USD",
+      "Volume": 56798.2
+    },
+    {
+      "Date": "2018-12-17",
+      "Coin": "Bitcoin",
+      "Price": "3509.08 USD",
+      "Volume": 59026.9
+    },
+    {
+      "Date": "2018-12-16",
+      "Coin": "Bitcoin",
+      "Price": "3228.67 USD",
+      "Volume": 23376.74
+    },
+    {
+      "Date": "2018-12-15",
+      "Coin": "Bitcoin",
+      "Price": "3211.72 USD",
+      "Volume": 28287.18
+    },
+    {
+      "Date": "2018-12-14",
+      "Coin": "Bitcoin",
+      "Price": "3224.17 USD",
+      "Volume": 40946.18
+    },
+    {
+      "Date": "2018-12-13",
+      "Coin": "Bitcoin",
+      "Price": "3302.06 USD",
+      "Volume": 37471.7
+    },
+    {
+      "Date": "2018-12-12",
+      "Coin": "Bitcoin",
+      "Price": "3445 USD",
+      "Volume": 31471.86
+    },
+    {
+      "Date": "2018-12-11",
+      "Coin": "Bitcoin",
+      "Price": "3389.69 USD",
+      "Volume": 33394.16
+    },
+    {
+      "Date": "2018-12-10",
+      "Coin": "Bitcoin",
+      "Price": "3432.88 USD",
+      "Volume": 37581.44
+    },
+    {
+      "Date": "2018-12-09",
+      "Coin": "Bitcoin",
+      "Price": "3545.37 USD",
+      "Volume": 41424.25
+    },
+    {
+      "Date": "2018-12-08",
+      "Coin": "Bitcoin",
+      "Price": "3410.93 USD",
+      "Volume": 50131.6
+    },
+    {
+      "Date": "2018-12-07",
+      "Coin": "Bitcoin",
+      "Price": "3403.55 USD",
+      "Volume": 83526.75
+    },
+    {
+      "Date": "2018-12-06",
+      "Coin": "Bitcoin",
+      "Price": "3508.75 USD",
+      "Volume": 58566.12
+    },
+    {
+      "Date": "2018-12-05",
+      "Coin": "Bitcoin",
+      "Price": "3769.84 USD",
+      "Volume": 40324.34
+    },
+    {
+      "Date": "2018-12-04",
+      "Coin": "Bitcoin",
+      "Price": "3951.64 USD",
+      "Volume": 43819.45
+    },
+    {
+      "Date": "2018-12-03",
+      "Coin": "Bitcoin",
+      "Price": "3884.01 USD",
+      "Volume": 43575.4
+    },
+    {
+      "Date": "2018-12-02",
+      "Coin": "Bitcoin",
+      "Price": "4161.01 USD",
+      "Volume": 36617.34
+    },
+    {
+      "Date": "2018-12-01",
+      "Coin": "Bitcoin",
+      "Price": "4190.02 USD",
+      "Volume": 41538.32
+    },
+    {
+      "Date": "2018-11-30",
+      "Coin": "Bitcoin",
+      "Price": "4053.09 USD",
+      "Volume": 61088.09
+    },
+    {
+      "Date": "2018-11-29",
+      "Coin": "Bitcoin",
+      "Price": "4295.84 USD",
+      "Volume": 67935.45
+    },
+    {
+      "Date": "2018-11-28",
+      "Coin": "Bitcoin",
+      "Price": "4264.85 USD",
+      "Volume": 82187.35
+    },
+    {
+      "Date": "2018-11-27",
+      "Coin": "Bitcoin",
+      "Price": "3875.21 USD",
+      "Volume": 62299.14
+    },
+    {
+      "Date": "2018-11-26",
+      "Coin": "Bitcoin",
+      "Price": "3862.2 USD",
+      "Volume": 84761.59
+    },
+    {
+      "Date": "2018-11-25",
+      "Coin": "Bitcoin",
+      "Price": "4085.78 USD",
+      "Volume": 89041.61
+    },
+    {
+      "Date": "2018-11-24",
+      "Coin": "Bitcoin",
+      "Price": "3932.44 USD",
+      "Volume": 52612.04
+    },
+    {
+      "Date": "2018-11-23",
+      "Coin": "Bitcoin",
+      "Price": "4420.61 USD",
+      "Volume": 45007.85
+    },
+    {
+      "Date": "2018-11-22",
+      "Coin": "Bitcoin",
+      "Price": "4370 USD",
+      "Volume": 31617.81
+    },
+    {
+      "Date": "2018-11-21",
+      "Coin": "Bitcoin",
+      "Price": "4661.07 USD",
+      "Volume": 56391.89
+    },
+    {
+      "Date": "2018-11-20",
+      "Coin": "Bitcoin",
+      "Price": "4558.86 USD",
+      "Volume": 100503.22
+    },
+    {
+      "Date": "2018-11-19",
+      "Coin": "Bitcoin",
+      "Price": "4910.03 USD",
+      "Volume": 63314.09
+    },
+    {
+      "Date": "2018-11-18",
+      "Coin": "Bitcoin",
+      "Price": "5662 USD",
+      "Volume": 22864.8
+    },
+    {
+      "Date": "2018-11-17",
+      "Coin": "Bitcoin",
+      "Price": "5628.29 USD",
+      "Volume": 25511.48
+    },
+    {
+      "Date": "2018-11-16",
+      "Coin": "Bitcoin",
+      "Price": "5655.94 USD",
+      "Volume": 36665.71
+    },
+    {
+      "Date": "2018-11-15",
+      "Coin": "Bitcoin",
+      "Price": "5753.4 USD",
+      "Volume": 41943.86
+    },
+    {
+      "Date": "2018-11-14",
+      "Coin": "Bitcoin",
+      "Price": "5922.41 USD",
+      "Volume": 38778.76
+    },
+    {
+      "Date": "2018-11-13",
+      "Coin": "Bitcoin",
+      "Price": "6457.66 USD",
+      "Volume": 11198.97
+    },
+    {
+      "Date": "2018-11-12",
+      "Coin": "Bitcoin",
+      "Price": "6453.07 USD",
+      "Volume": 9558.74
+    },
+    {
+      "Date": "2018-11-11",
+      "Coin": "Bitcoin",
+      "Price": "6449.81 USD",
+      "Volume": 7738.64
+    },
+    {
+      "Date": "2018-11-10",
+      "Coin": "Bitcoin",
+      "Price": "6433.05 USD",
+      "Volume": 7406.31
+    },
+    {
+      "Date": "2018-11-09",
+      "Coin": "Bitcoin",
+      "Price": "6419.99 USD",
+      "Volume": 11145.39
+    },
+    {
+      "Date": "2018-11-08",
+      "Coin": "Bitcoin",
+      "Price": "6479.84 USD",
+      "Volume": 12284.48
+    },
+    {
+      "Date": "2018-11-07",
+      "Coin": "Bitcoin",
+      "Price": "6578.46 USD",
+      "Volume": 13205.39
+    },
+    {
+      "Date": "2018-11-06",
+      "Coin": "Bitcoin",
+      "Price": "6519.11 USD",
+      "Volume": 11223.92
+    },
+    {
+      "Date": "2018-11-05",
+      "Coin": "Bitcoin",
+      "Price": "6468.99 USD",
+      "Volume": 8479.5
+    },
+    {
+      "Date": "2018-11-04",
+      "Coin": "Bitcoin",
+      "Price": "6485.85 USD",
+      "Volume": 9989.26
+    },
+    {
+      "Date": "2018-11-03",
+      "Coin": "Bitcoin",
+      "Price": "6387.09 USD",
+      "Volume": 7310.55
+    },
+    {
+      "Date": "2018-10-27",
+      "Coin": "Bitcoin",
+      "Price": "6505.6 USD",
+      "Volume": 7049.62
+    },
+    {
+      "Date": "2018-11-02",
+      "Coin": "Bitcoin",
+      "Price": "6433.98 USD",
+      "Volume": 9306.69
+    },
+    {
+      "Date": "2018-11-01",
+      "Coin": "Bitcoin",
+      "Price": "6410 USD",
+      "Volume": 8704.28
+    },
+    {
+      "Date": "2018-10-31",
+      "Coin": "Bitcoin",
+      "Price": "6371.93 USD",
+      "Volume": 11288.16
+    },
+    {
+      "Date": "2018-10-30",
+      "Coin": "Bitcoin",
+      "Price": "6330.87 USD",
+      "Volume": 8511.93
+    },
+    {
+      "Date": "2018-10-29",
+      "Coin": "Bitcoin",
+      "Price": "6344.5 USD",
+      "Volume": 12371.58
+    },
+    {
+      "Date": "2018-10-28",
+      "Coin": "Bitcoin",
+      "Price": "6489.93 USD",
+      "Volume": 5496.14
+    },
+    {
+      "Date": "2018-10-26",
+      "Coin": "Bitcoin",
+      "Price": "6538.63 USD",
+      "Volume": 9179.12
+    },
+    {
+      "Date": "2018-10-25",
+      "Coin": "Bitcoin",
+      "Price": "6528.09 USD",
+      "Volume": 9910.04
+    },
+    {
+      "Date": "2018-10-24",
+      "Coin": "Bitcoin",
+      "Price": "6565.5 USD",
+      "Volume": 11591.53
+    },
+    {
+      "Date": "2018-10-23",
+      "Coin": "Bitcoin",
+      "Price": "6553.51 USD",
+      "Volume": 13462.11
+    },
+    {
+      "Date": "2018-10-22",
+      "Coin": "Bitcoin",
+      "Price": "6581.2 USD",
+      "Volume": 15770.56
+    },
+    {
+      "Date": "2018-10-21",
+      "Coin": "Bitcoin",
+      "Price": "6590.11 USD",
+      "Volume": 6239.58
+    },
+    {
+      "Date": "2018-10-20",
+      "Coin": "Bitcoin",
+      "Price": "6588.4 USD",
+      "Volume": 18944.66
+    },
+    {
+      "Date": "2018-10-19",
+      "Coin": "Bitcoin",
+      "Price": "6528.88 USD",
+      "Volume": 20150.2
+    },
+    {
+      "Date": "2018-10-18",
+      "Coin": "Bitcoin",
+      "Price": "6618.96 USD",
+      "Volume": 18985.84
+    },
+    {
+      "Date": "2018-10-17",
+      "Coin": "Bitcoin",
+      "Price": "6740.89 USD",
+      "Volume": 25902.71
+    },
+    {
+      "Date": "2018-10-16",
+      "Coin": "Bitcoin",
+      "Price": "6708.49 USD",
+      "Volume": 0
+    },
+    {
+      "Date": "2018-10-15",
+      "Coin": "Bitcoin",
+      "Price": "6755.73 USD",
+      "Volume": 71305.79
+    },
+    {
+      "Date": "2018-10-14",
+      "Coin": "Bitcoin",
+      "Price": "6339.34 USD",
+      "Volume": 15032.82
+    },
+    {
+      "Date": "2018-10-13",
+      "Coin": "Bitcoin",
+      "Price": "6332.93 USD",
+      "Volume": 18677.34
+    },
+    {
+      "Date": "2018-10-12",
+      "Coin": "Bitcoin",
+      "Price": "6298.01 USD",
+      "Volume": 28152.99
+    },
+    {
+      "Date": "2018-10-11",
+      "Coin": "Bitcoin",
+      "Price": "6252.68 USD",
+      "Volume": 45289.8
+    },
+    {
+      "Date": "2018-10-10",
+      "Coin": "Bitcoin",
+      "Price": "6631 USD",
+      "Volume": 14686.17
+    },
+    {
+      "Date": "2018-10-09",
+      "Coin": "Bitcoin",
+      "Price": "6656.61 USD",
+      "Volume": 14905.45
+    },
+    {
+      "Date": "2018-10-08",
+      "Coin": "Bitcoin",
+      "Price": "6673.01 USD",
+      "Volume": 22269.64
+    },
+    {
+      "Date": "2018-10-07",
+      "Coin": "Bitcoin",
+      "Price": "6615.26 USD",
+      "Volume": 16867.06
+    },
+    {
+      "Date": "2018-10-06",
+      "Coin": "Bitcoin",
+      "Price": "6594.27 USD",
+      "Volume": 10604.16
+    },
+    {
+      "Date": "2018-10-05",
+      "Coin": "Bitcoin",
+      "Price": "6635.65 USD",
+      "Volume": 15185.82
+    },
+    {
+      "Date": "2018-10-04",
+      "Coin": "Bitcoin",
+      "Price": "6593.79 USD",
+      "Volume": 19316.97
+    },
+    {
+      "Date": "2018-10-03",
+      "Coin": "Bitcoin",
+      "Price": "6510 USD",
+      "Volume": 27403.24
+    },
+    {
+      "Date": "2018-10-02",
+      "Coin": "Bitcoin",
+      "Price": "6525.79 USD",
+      "Volume": 27259.9
+    },
+    {
+      "Date": "2018-10-01",
+      "Coin": "Bitcoin",
+      "Price": "6611.61 USD",
+      "Volume": 19444.16
+    },
+    {
+      "Date": "2018-09-30",
+      "Coin": "Bitcoin",
+      "Price": "6626.57 USD",
+      "Volume": 27030.58
+    },
+    {
+      "Date": "2018-09-29",
+      "Coin": "Bitcoin",
+      "Price": "6596.38 USD",
+      "Volume": 29116.99
+    },
+    {
+      "Date": "2018-09-28",
+      "Coin": "Bitcoin",
+      "Price": "6634.58 USD",
+      "Volume": 40167.47
+    },
+    {
+      "Date": "2018-09-27",
+      "Coin": "Bitcoin",
+      "Price": "6689.13 USD",
+      "Volume": 31366.55
+    },
+    {
+      "Date": "2018-09-26",
+      "Coin": "Bitcoin",
+      "Price": "6465.12 USD",
+      "Volume": 32046.99
+    },
+    {
+      "Date": "2018-09-25",
+      "Coin": "Bitcoin",
+      "Price": "6447.54 USD",
+      "Volume": 38074.01
+    },
+    {
+      "Date": "2018-09-24",
+      "Coin": "Bitcoin",
+      "Price": "6581.39 USD",
+      "Volume": 33414.49
+    },
+    {
+      "Date": "2018-09-23",
+      "Coin": "Bitcoin",
+      "Price": "6708 USD",
+      "Volume": 29311.77
+    },
+    {
+      "Date": "2018-09-22",
+      "Coin": "Bitcoin",
+      "Price": "6723.05 USD",
+      "Volume": 27339.77
+    },
+    {
+      "Date": "2018-09-21",
+      "Coin": "Bitcoin",
+      "Price": "6759.02 USD",
+      "Volume": 47817.08
+    },
+    {
+      "Date": "2018-09-20",
+      "Coin": "Bitcoin",
+      "Price": "6492 USD",
+      "Volume": 23631.22
+    },
+    {
+      "Date": "2018-09-19",
+      "Coin": "Bitcoin",
+      "Price": "6391.89 USD",
+      "Volume": 34541.26
+    },
+    {
+      "Date": "2018-09-18",
+      "Coin": "Bitcoin",
+      "Price": "6336.45 USD",
+      "Volume": 31411.52
+    },
+    {
+      "Date": "2018-09-17",
+      "Coin": "Bitcoin",
+      "Price": "6248.69 USD",
+      "Volume": 33303.91
+    },
+    {
+      "Date": "2018-09-16",
+      "Coin": "Bitcoin",
+      "Price": "6505 USD",
+      "Volume": 25675.79
+    },
+    {
+      "Date": "2018-09-15",
+      "Coin": "Bitcoin",
+      "Price": "6514.96 USD",
+      "Volume": 24486.34
+    },
+    {
+      "Date": "2018-09-14",
+      "Coin": "Bitcoin",
+      "Price": "6476.63 USD",
+      "Volume": 34777.26
+    },
+    {
+      "Date": "2018-09-13",
+      "Coin": "Bitcoin",
+      "Price": "6487.38 USD",
+      "Volume": 38129.96
+    },
+    {
+      "Date": "2018-09-12",
+      "Coin": "Bitcoin",
+      "Price": "6338.62 USD",
+      "Volume": 30266.86
+    },
+    {
+      "Date": "2018-09-11",
+      "Coin": "Bitcoin",
+      "Price": "6294.91 USD",
+      "Volume": 31017.23
+    },
+    {
+      "Date": "2018-09-10",
+      "Coin": "Bitcoin",
+      "Price": "6312 USD",
+      "Volume": 31429.19
+    },
+    {
+      "Date": "2018-09-09",
+      "Coin": "Bitcoin",
+      "Price": "6250.81 USD",
+      "Volume": 34394.57
+    },
+    {
+      "Date": "2018-09-08",
+      "Coin": "Bitcoin",
+      "Price": "6185.05 USD",
+      "Volume": 34684.08
+    },
+    {
+      "Date": "2018-09-07",
+      "Coin": "Bitcoin",
+      "Price": "6395.54 USD",
+      "Volume": 37193
+    },
+    {
+      "Date": "2018-09-06",
+      "Coin": "Bitcoin",
+      "Price": "6516.01 USD",
+      "Volume": 54232.17
+    },
+    {
+      "Date": "2018-09-05",
+      "Coin": "Bitcoin",
+      "Price": "6700 USD",
+      "Volume": 57250.23
+    },
+    {
+      "Date": "2018-09-04",
+      "Coin": "Bitcoin",
+      "Price": "7359.06 USD",
+      "Volume": 33876.24
+    },
+    {
+      "Date": "2018-09-03",
+      "Coin": "Bitcoin",
+      "Price": "7263.02 USD",
+      "Volume": 30914.26
+    },
+    {
+      "Date": "2018-09-02",
+      "Coin": "Bitcoin",
+      "Price": "7302.01 USD",
+      "Volume": 37719.06
+    },
+    {
+      "Date": "2018-09-01",
+      "Coin": "Bitcoin",
+      "Price": "7200.01 USD",
+      "Volume": 37858.84
+    },
+    {
+      "Date": "2018-08-31",
+      "Coin": "Bitcoin",
+      "Price": "7011.21 USD",
+      "Volume": 38515.35
+    },
+    {
+      "Date": "2018-08-30",
+      "Coin": "Bitcoin",
+      "Price": "6984.84 USD",
+      "Volume": 41565.87
+    },
+    {
+      "Date": "2018-08-29",
+      "Coin": "Bitcoin",
+      "Price": "7031.22 USD",
+      "Volume": 40220.91
+    },
+    {
+      "Date": "2018-08-28",
+      "Coin": "Bitcoin",
+      "Price": "7076.11 USD",
+      "Volume": 44829.18
+    },
+    {
+      "Date": "2018-08-27",
+      "Coin": "Bitcoin",
+      "Price": "6908.64 USD",
+      "Volume": 34508.75
+    },
+    {
+      "Date": "2018-08-26",
+      "Coin": "Bitcoin",
+      "Price": "6700 USD",
+      "Volume": 18564.21
+    },
+    {
+      "Date": "2018-08-25",
+      "Coin": "Bitcoin",
+      "Price": "6733.64 USD",
+      "Volume": 18091.61
+    },
+    {
+      "Date": "2018-08-24",
+      "Coin": "Bitcoin",
+      "Price": "6681.64 USD",
+      "Volume": 35913.86
+    },
+    {
+      "Date": "2018-08-23",
+      "Coin": "Bitcoin",
+      "Price": "6525.01 USD",
+      "Volume": 38250.32
+    },
+    {
+      "Date": "2018-08-22",
+      "Coin": "Bitcoin",
+      "Price": "6360.89 USD",
+      "Volume": 67162.63
+    },
+    {
+      "Date": "2018-08-21",
+      "Coin": "Bitcoin",
+      "Price": "6480 USD",
+      "Volume": 39854.49
+    },
+    {
+      "Date": "2018-08-20",
+      "Coin": "Bitcoin",
+      "Price": "6254.84 USD",
+      "Volume": 46545.59
+    },
+    {
+      "Date": "2018-08-19",
+      "Coin": "Bitcoin",
+      "Price": "6477.53 USD",
+      "Volume": 43738.26
+    },
+    {
+      "Date": "2018-08-18",
+      "Coin": "Bitcoin",
+      "Price": "6387.96 USD",
+      "Volume": 50598.18
+    },
+    {
+      "Date": "2018-08-17",
+      "Coin": "Bitcoin",
+      "Price": "6584.49 USD",
+      "Volume": 54348.71
+    },
+    {
+      "Date": "2018-08-16",
+      "Coin": "Bitcoin",
+      "Price": "6311.75 USD",
+      "Volume": 45018.33
+    },
+    {
+      "Date": "2018-08-15",
+      "Coin": "Bitcoin",
+      "Price": "6267.16 USD",
+      "Volume": 61848.78
+    },
+    {
+      "Date": "2018-08-14",
+      "Coin": "Bitcoin",
+      "Price": "6188.08 USD",
+      "Volume": 44408.54
+    },
+    {
+      "Date": "2018-08-13",
+      "Coin": "Bitcoin",
+      "Price": "6246.35 USD",
+      "Volume": 50100.77
+    },
+    {
+      "Date": "2018-08-12",
+      "Coin": "Bitcoin",
+      "Price": "6077.3 USD",
+      "Volume": 0
+    },
+    {
+      "Date": "2018-08-11",
+      "Coin": "Bitcoin",
+      "Price": "6077.3 USD",
+      "Volume": 22413.41
+    },
+    {
+      "Date": "2018-08-10",
+      "Coin": "Bitcoin",
+      "Price": "6144.01 USD",
+      "Volume": 52332.83
+    },
+    {
+      "Date": "2018-08-09",
+      "Coin": "Bitcoin",
+      "Price": "6529.79 USD",
+      "Volume": 47729.05
+    },
+    {
+      "Date": "2018-08-08",
+      "Coin": "Bitcoin",
+      "Price": "6285 USD",
+      "Volume": 53301.26
+    },
+    {
+      "Date": "2018-08-01",
+      "Coin": "Bitcoin",
+      "Price": "7611.64 USD",
+      "Volume": 39394.76
+    },
+    {
+      "Date": "2018-08-07",
+      "Coin": "Bitcoin",
+      "Price": "6720.06 USD",
+      "Volume": 41214.02
+    },
+    {
+      "Date": "2018-08-06",
+      "Coin": "Bitcoin",
+      "Price": "6934.82 USD",
+      "Volume": 30793.32
+    },
+    {
+      "Date": "2018-08-05",
+      "Coin": "Bitcoin",
+      "Price": "7024.19 USD",
+      "Volume": 31146.24
+    },
+    {
+      "Date": "2018-08-04",
+      "Coin": "Bitcoin",
+      "Price": "7009.84 USD",
+      "Volume": 32996.7
+    },
+    {
+      "Date": "2018-08-03",
+      "Coin": "Bitcoin",
+      "Price": "7418.78 USD",
+      "Volume": 41280.01
+    },
+    {
+      "Date": "2018-08-02",
+      "Coin": "Bitcoin",
+      "Price": "7525.71 USD",
+      "Volume": 33407.69
+    },
+    {
+      "Date": "2018-07-31",
+      "Coin": "Bitcoin",
+      "Price": "7730.93 USD",
+      "Volume": 43682.43
+    },
+    {
+      "Date": "2018-07-30",
+      "Coin": "Bitcoin",
+      "Price": "8173.92 USD",
+      "Volume": 36011.52
+    },
+    {
+      "Date": "2018-07-29",
+      "Coin": "Bitcoin",
+      "Price": "8211 USD",
+      "Volume": 24675.06
+    },
+    {
+      "Date": "2018-07-28",
+      "Coin": "Bitcoin",
+      "Price": "8225.04 USD",
+      "Volume": 25222.34
+    },
+    {
+      "Date": "2018-07-27",
+      "Coin": "Bitcoin",
+      "Price": "8188.57 USD",
+      "Volume": 40369.01
+    },
+    {
+      "Date": "2018-07-26",
+      "Coin": "Bitcoin",
+      "Price": "7920 USD",
+      "Volume": 39535.19
+    },
+    {
+      "Date": "2018-07-25",
+      "Coin": "Bitcoin",
+      "Price": "8175.64 USD",
+      "Volume": 44943.17
+    },
+    {
+      "Date": "2018-07-24",
+      "Coin": "Bitcoin",
+      "Price": "8397.24 USD",
+      "Volume": 54851.84
+    },
+    {
+      "Date": "2018-07-23",
+      "Coin": "Bitcoin",
+      "Price": "7721.01 USD",
+      "Volume": 38041.48
+    },
+    {
+      "Date": "2018-07-22",
+      "Coin": "Bitcoin",
+      "Price": "7394.79 USD",
+      "Volume": 28538.74
+    },
+    {
+      "Date": "2018-07-21",
+      "Coin": "Bitcoin",
+      "Price": "7398.78 USD",
+      "Volume": 27274.39
+    },
+    {
+      "Date": "2018-07-20",
+      "Coin": "Bitcoin",
+      "Price": "7337.53 USD",
+      "Volume": 40701.57
+    },
+    {
+      "Date": "2018-07-19",
+      "Coin": "Bitcoin",
+      "Price": "7466.21 USD",
+      "Volume": 38217.46
+    },
+    {
+      "Date": "2018-07-18",
+      "Coin": "Bitcoin",
+      "Price": "7381.9 USD",
+      "Volume": 53379.35
+    },
+    {
+      "Date": "2018-07-17",
+      "Coin": "Bitcoin",
+      "Price": "7317.44 USD",
+      "Volume": 44749.42
+    },
+    {
+      "Date": "2018-07-16",
+      "Coin": "Bitcoin",
+      "Price": "6723.35 USD",
+      "Volume": 33547.54
+    },
+    {
+      "Date": "2018-07-15",
+      "Coin": "Bitcoin",
+      "Price": "6353.01 USD",
+      "Volume": 22302.78
+    },
+    {
+      "Date": "2018-07-14",
+      "Coin": "Bitcoin",
+      "Price": "6251.99 USD",
+      "Volume": 16980.84
+    },
+    {
+      "Date": "2018-07-13",
+      "Coin": "Bitcoin",
+      "Price": "6214.57 USD",
+      "Volume": 24233.9
+    },
+    {
+      "Date": "2018-07-12",
+      "Coin": "Bitcoin",
+      "Price": "6250.57 USD",
+      "Volume": 28442.93
+    },
+    {
+      "Date": "2018-07-11",
+      "Coin": "Bitcoin",
+      "Price": "6378.07 USD",
+      "Volume": 27261.07
+    },
+    {
+      "Date": "2018-07-10",
+      "Coin": "Bitcoin",
+      "Price": "6296.91 USD",
+      "Volume": 35210.77
+    },
+    {
+      "Date": "2018-07-09",
+      "Coin": "Bitcoin",
+      "Price": "6662.12 USD",
+      "Volume": 24981.94
+    },
+    {
+      "Date": "2018-07-08",
+      "Coin": "Bitcoin",
+      "Price": "6712.1 USD",
+      "Volume": 23296.28
+    },
+    {
+      "Date": "2018-07-07",
+      "Coin": "Bitcoin",
+      "Price": "6756.98 USD",
+      "Volume": 21978.78
+    },
+    {
+      "Date": "2018-07-06",
+      "Coin": "Bitcoin",
+      "Price": "6609.78 USD",
+      "Volume": 27529.34
+    },
+    {
+      "Date": "2018-07-05",
+      "Coin": "Bitcoin",
+      "Price": "6529.2 USD",
+      "Volume": 32443.55
+    },
+    {
+      "Date": "2018-07-04",
+      "Coin": "Bitcoin",
+      "Price": "6586.98 USD",
+      "Volume": 21412.98
+    },
+    {
+      "Date": "2018-07-03",
+      "Coin": "Bitcoin",
+      "Price": "6513.86 USD",
+      "Volume": 35198.66
+    },
+    {
+      "Date": "2018-07-02",
+      "Coin": "Bitcoin",
+      "Price": "6615.29 USD",
+      "Volume": 33026.95
+    },
+    {
+      "Date": "2018-07-01",
+      "Coin": "Bitcoin",
+      "Price": "6356.81 USD",
+      "Volume": 25719.81
+    },
+    {
+      "Date": "2018-06-30",
+      "Coin": "Bitcoin",
+      "Price": "6390.07 USD",
+      "Volume": 35066.33
+    },
+    {
+      "Date": "2018-06-29",
+      "Coin": "Bitcoin",
+      "Price": "6197.92 USD",
+      "Volume": 30874.03
+    },
+    {
+      "Date": "2018-06-28",
+      "Coin": "Bitcoin",
+      "Price": "5853.98 USD",
+      "Volume": 28898.22
+    },
+    {
+      "Date": "2018-06-27",
+      "Coin": "Bitcoin",
+      "Price": "6133.73 USD",
+      "Volume": 18233.86
+    },
+    {
+      "Date": "2018-06-26",
+      "Coin": "Bitcoin",
+      "Price": "6070.78 USD",
+      "Volume": 17954.65
+    },
+    {
+      "Date": "2018-06-25",
+      "Coin": "Bitcoin",
+      "Price": "6252 USD",
+      "Volume": 36191.98
+    },
+    {
+      "Date": "2018-06-24",
+      "Coin": "Bitcoin",
+      "Price": "6136.97 USD",
+      "Volume": 41296.18
+    },
+    {
+      "Date": "2018-06-23",
+      "Coin": "Bitcoin",
+      "Price": "6149.98 USD",
+      "Volume": 25275.69
+    },
+    {
+      "Date": "2018-06-22",
+      "Coin": "Bitcoin",
+      "Price": "6045 USD",
+      "Volume": 46190.22
+    },
+    {
+      "Date": "2018-06-21",
+      "Coin": "Bitcoin",
+      "Price": "6718.84 USD",
+      "Volume": 24610.33
+    },
+    {
+      "Date": "2018-06-20",
+      "Coin": "Bitcoin",
+      "Price": "6761.51 USD",
+      "Volume": 24856.17
+    },
+    {
+      "Date": "2018-06-19",
+      "Coin": "Bitcoin",
+      "Price": "6741.21 USD",
+      "Volume": 23242.74
+    },
+    {
+      "Date": "2018-06-18",
+      "Coin": "Bitcoin",
+      "Price": "6712.46 USD",
+      "Volume": 29675.51
+    },
+    {
+      "Date": "2018-06-17",
+      "Coin": "Bitcoin",
+      "Price": "6449.61 USD",
+      "Volume": 19251.31
+    },
+    {
+      "Date": "2018-06-16",
+      "Coin": "Bitcoin",
+      "Price": "6483.98 USD",
+      "Volume": 21157.78
+    },
+    {
+      "Date": "2018-06-15",
+      "Coin": "Bitcoin",
+      "Price": "6388.9 USD",
+      "Volume": 28128.53
+    },
+    {
+      "Date": "2018-06-14",
+      "Coin": "Bitcoin",
+      "Price": "6635.98 USD",
+      "Volume": 40272.35
+    },
+    {
+      "Date": "2018-06-13",
+      "Coin": "Bitcoin",
+      "Price": "6292.78 USD",
+      "Volume": 41763.12
+    },
+    {
+      "Date": "2018-06-12",
+      "Coin": "Bitcoin",
+      "Price": "6530 USD",
+      "Volume": 33509.64
+    },
+    {
+      "Date": "2018-06-11",
+      "Coin": "Bitcoin",
+      "Price": "6872 USD",
+      "Volume": 32459.41
+    },
+    {
+      "Date": "2018-06-10",
+      "Coin": "Bitcoin",
+      "Price": "6764.99 USD",
+      "Volume": 46345.2
+    },
+    {
+      "Date": "2018-06-09",
+      "Coin": "Bitcoin",
+      "Price": "7491.73 USD",
+      "Volume": 18385.98
+    },
+    {
+      "Date": "2018-06-08",
+      "Coin": "Bitcoin",
+      "Price": "7603.44 USD",
+      "Volume": 21943.48
+    },
+    {
+      "Date": "2018-06-07",
+      "Coin": "Bitcoin",
+      "Price": "7691.08 USD",
+      "Volume": 24050.89
+    },
+    {
+      "Date": "2018-06-06",
+      "Coin": "Bitcoin",
+      "Price": "7658.84 USD",
+      "Volume": 25975.09
+    },
+    {
+      "Date": "2018-06-05",
+      "Coin": "Bitcoin",
+      "Price": "7625 USD",
+      "Volume": 28444.14
+    },
+    {
+      "Date": "2018-06-04",
+      "Coin": "Bitcoin",
+      "Price": "7487 USD",
+      "Volume": 30103.36
+    },
+    {
+      "Date": "2018-06-03",
+      "Coin": "Bitcoin",
+      "Price": "7714.26 USD",
+      "Volume": 25954.74
+    },
+    {
+      "Date": "2018-06-02",
+      "Coin": "Bitcoin",
+      "Price": "7640.03 USD",
+      "Volume": 25360.71
+    },
+    {
+      "Date": "2018-06-01",
+      "Coin": "Bitcoin",
+      "Price": "7521.01 USD",
+      "Volume": 26661.71
+    },
+    {
+      "Date": "2018-05-31",
+      "Coin": "Bitcoin",
+      "Price": "7485.01 USD",
+      "Volume": 28617.57
+    },
+    {
+      "Date": "2018-05-30",
+      "Coin": "Bitcoin",
+      "Price": "7375.96 USD",
+      "Volume": 29974.32
+    },
+    {
+      "Date": "2018-05-29",
+      "Coin": "Bitcoin",
+      "Price": "7461.29 USD",
+      "Volume": 36056.86
+    },
+    {
+      "Date": "2018-05-28",
+      "Coin": "Bitcoin",
+      "Price": "7099 USD",
+      "Volume": 25174.08
+    },
+    {
+      "Date": "2018-05-27",
+      "Coin": "Bitcoin",
+      "Price": "7338.99 USD",
+      "Volume": 17587.31
+    },
+    {
+      "Date": "2018-05-26",
+      "Coin": "Bitcoin",
+      "Price": "7333.96 USD",
+      "Volume": 18281.18
+    },
+    {
+      "Date": "2018-05-25",
+      "Coin": "Bitcoin",
+      "Price": "7457 USD",
+      "Volume": 24785.5
+    },
+    {
+      "Date": "2018-05-24",
+      "Coin": "Bitcoin",
+      "Price": "7575.01 USD",
+      "Volume": 34515.84
+    },
+    {
+      "Date": "2018-05-23",
+      "Coin": "Bitcoin",
+      "Price": "7501.95 USD",
+      "Volume": 38947.89
+    },
+    {
+      "Date": "2018-05-22",
+      "Coin": "Bitcoin",
+      "Price": "7977.11 USD",
+      "Volume": 22045.73
+    },
+    {
+      "Date": "2018-05-21",
+      "Coin": "Bitcoin",
+      "Price": "8381.24 USD",
+      "Volume": 19998.32
+    },
+    {
+      "Date": "2018-05-20",
+      "Coin": "Bitcoin",
+      "Price": "8526.98 USD",
+      "Volume": 18721.24
+    },
+    {
+      "Date": "2018-05-19",
+      "Coin": "Bitcoin",
+      "Price": "8233.49 USD",
+      "Volume": 16146.96
+    },
+    {
+      "Date": "2018-05-18",
+      "Coin": "Bitcoin",
+      "Price": "8239.81 USD",
+      "Volume": 21838.33
+    },
+    {
+      "Date": "2018-05-17",
+      "Coin": "Bitcoin",
+      "Price": "8041.46 USD",
+      "Volume": 22070.3
+    },
+    {
+      "Date": "2018-05-16",
+      "Coin": "Bitcoin",
+      "Price": "8330 USD",
+      "Volume": 26918.99
+    },
+    {
+      "Date": "2018-05-15",
+      "Coin": "Bitcoin",
+      "Price": "8462 USD",
+      "Volume": 24109.53
+    },
+    {
+      "Date": "2018-05-14",
+      "Coin": "Bitcoin",
+      "Price": "8663.34 USD",
+      "Volume": 33985.62
+    },
+    {
+      "Date": "2018-05-13",
+      "Coin": "Bitcoin",
+      "Price": "8679.71 USD",
+      "Volume": 23839.79
+    },
+    {
+      "Date": "2018-05-12",
+      "Coin": "Bitcoin",
+      "Price": "8465.94 USD",
+      "Volume": 37239.64
+    },
+    {
+      "Date": "2018-05-11",
+      "Coin": "Bitcoin",
+      "Price": "8400 USD",
+      "Volume": 43341.84
+    },
+    {
+      "Date": "2018-05-10",
+      "Coin": "Bitcoin",
+      "Price": "9002.2 USD",
+      "Volume": 23030.82
+    },
+    {
+      "Date": "2018-05-09",
+      "Coin": "Bitcoin",
+      "Price": "9310 USD",
+      "Volume": 24142.49
+    },
+    {
+      "Date": "2018-05-08",
+      "Coin": "Bitcoin",
+      "Price": "9184 USD",
+      "Volume": 23665.43
+    },
+    {
+      "Date": "2018-05-07",
+      "Coin": "Bitcoin",
+      "Price": "9365 USD",
+      "Volume": 31217.86
+    },
+    {
+      "Date": "2018-05-06",
+      "Coin": "Bitcoin",
+      "Price": "9659.01 USD",
+      "Volume": 25845.38
+    },
+    {
+      "Date": "2018-05-01",
+      "Coin": "Bitcoin",
+      "Price": "9071.48 USD",
+      "Volume": 37420.61
+    },
+    {
+      "Date": "2018-04-30",
+      "Coin": "Bitcoin",
+      "Price": "9246.01 USD",
+      "Volume": 32200.03
+    },
+    {
+      "Date": "2018-04-29",
+      "Coin": "Bitcoin",
+      "Price": "9419 USD",
+      "Volume": 35323.73
+    },
+    {
+      "Date": "2018-04-28",
+      "Coin": "Bitcoin",
+      "Price": "9348 USD",
+      "Volume": 32021.91
+    },
+    {
+      "Date": "2018-05-05",
+      "Coin": "Bitcoin",
+      "Price": "9864 USD",
+      "Volume": 23037.14
+    },
+    {
+      "Date": "2018-05-04",
+      "Coin": "Bitcoin",
+      "Price": "9713.99 USD",
+      "Volume": 26514.27
+    },
+    {
+      "Date": "2018-05-03",
+      "Coin": "Bitcoin",
+      "Price": "9750 USD",
+      "Volume": 35823.63
+    },
+    {
+      "Date": "2018-05-02",
+      "Coin": "Bitcoin",
+      "Price": "9247.84 USD",
+      "Volume": 24261.11
+    },
+    {
+      "Date": "2018-04-27",
+      "Coin": "Bitcoin",
+      "Price": "8915.35 USD",
+      "Volume": 34350.82
+    },
+    {
+      "Date": "2018-04-26",
+      "Coin": "Bitcoin",
+      "Price": "9266 USD",
+      "Volume": 39468.03
+    },
+    {
+      "Date": "2018-04-25",
+      "Coin": "Bitcoin",
+      "Price": "8869.99 USD",
+      "Volume": 72185.81
+    },
+    {
+      "Date": "2018-04-24",
+      "Coin": "Bitcoin",
+      "Price": "9622.02 USD",
+      "Volume": 42239.31
+    },
+    {
+      "Date": "2018-04-23",
+      "Coin": "Bitcoin",
+      "Price": "8934.01 USD",
+      "Volume": 24369.66
+    },
+    {
+      "Date": "2018-04-22",
+      "Coin": "Bitcoin",
+      "Price": "8787.02 USD",
+      "Volume": 27128.97
+    },
+    {
+      "Date": "2018-04-21",
+      "Coin": "Bitcoin",
+      "Price": "8915.31 USD",
+      "Volume": 37486.38
+    },
+    {
+      "Date": "2018-04-20",
+      "Coin": "Bitcoin",
+      "Price": "8856.98 USD",
+      "Volume": 35930.64
+    },
+    {
+      "Date": "2018-04-19",
+      "Coin": "Bitcoin",
+      "Price": "8278 USD",
+      "Volume": 25235.04
+    },
+    {
+      "Date": "2018-04-18",
+      "Coin": "Bitcoin",
+      "Price": "8173 USD",
+      "Volume": 24598.08
+    },
+    {
+      "Date": "2018-04-17",
+      "Coin": "Bitcoin",
+      "Price": "7885.02 USD",
+      "Volume": 29361.86
+    },
+    {
+      "Date": "2018-04-16",
+      "Coin": "Bitcoin",
+      "Price": "8064.92 USD",
+      "Volume": 32793.47
+    },
+    {
+      "Date": "2018-04-15",
+      "Coin": "Bitcoin",
+      "Price": "8355 USD",
+      "Volume": 25387.49
+    },
+    {
+      "Date": "2018-04-14",
+      "Coin": "Bitcoin",
+      "Price": "7999.01 USD",
+      "Volume": 29396.9
+    },
+    {
+      "Date": "2018-04-13",
+      "Coin": "Bitcoin",
+      "Price": "7877.41 USD",
+      "Volume": 48966.27
+    },
+    {
+      "Date": "2018-04-12",
+      "Coin": "Bitcoin",
+      "Price": "7923 USD",
+      "Volume": 52462.81
+    },
+    {
+      "Date": "2018-04-11",
+      "Coin": "Bitcoin",
+      "Price": "6953.79 USD",
+      "Volume": 22782.18
+    },
+    {
+      "Date": "2018-04-10",
+      "Coin": "Bitcoin",
+      "Price": "6843.9 USD",
+      "Volume": 20936.25
+    },
+    {
+      "Date": "2018-04-09",
+      "Coin": "Bitcoin",
+      "Price": "6782.72 USD",
+      "Volume": 30915.42
+    },
+    {
+      "Date": "2018-04-08",
+      "Coin": "Bitcoin",
+      "Price": "7018 USD",
+      "Volume": 20313.27
+    },
+    {
+      "Date": "2018-04-07",
+      "Coin": "Bitcoin",
+      "Price": "6895.8 USD",
+      "Volume": 30015.34
+    },
+    {
+      "Date": "2018-04-06",
+      "Coin": "Bitcoin",
+      "Price": "6601.39 USD",
+      "Volume": 25462.58
+    },
+    {
+      "Date": "2018-04-05",
+      "Coin": "Bitcoin",
+      "Price": "6770.76 USD",
+      "Volume": 36076.98
+    },
+    {
+      "Date": "2018-04-04",
+      "Coin": "Bitcoin",
+      "Price": "6796.1 USD",
+      "Volume": 38576.06
+    },
+    {
+      "Date": "2018-04-03",
+      "Coin": "Bitcoin",
+      "Price": "7405.21 USD",
+      "Volume": 35371.14
+    },
+    {
+      "Date": "2018-04-02",
+      "Coin": "Bitcoin",
+      "Price": "7056 USD",
+      "Volume": 29932.66
+    },
+    {
+      "Date": "2018-04-01",
+      "Coin": "Bitcoin",
+      "Price": "6813.01 USD",
+      "Volume": 40263.37
+    },
+    {
+      "Date": "2018-03-31",
+      "Coin": "Bitcoin",
+      "Price": "6923.91 USD",
+      "Volume": 34014.7
+    },
+    {
+      "Date": "2018-03-30",
+      "Coin": "Bitcoin",
+      "Price": "6840.23 USD",
+      "Volume": 58906.55
+    },
+    {
+      "Date": "2018-03-29",
+      "Coin": "Bitcoin",
+      "Price": "7090.14 USD",
+      "Volume": 49271.03
+    },
+    {
+      "Date": "2018-03-28",
+      "Coin": "Bitcoin",
+      "Price": "7949.3 USD",
+      "Volume": 24866.87
+    },
+    {
+      "Date": "2018-03-27",
+      "Coin": "Bitcoin",
+      "Price": "7795.51 USD",
+      "Volume": 34554.36
+    },
+    {
+      "Date": "2018-03-26",
+      "Coin": "Bitcoin",
+      "Price": "8134.23 USD",
+      "Volume": 39920.48
+    },
+    {
+      "Date": "2018-03-25",
+      "Coin": "Bitcoin",
+      "Price": "8470.15 USD",
+      "Volume": 27184.64
+    },
+    {
+      "Date": "2018-03-24",
+      "Coin": "Bitcoin",
+      "Price": "8546.86 USD",
+      "Volume": 33068.56
+    },
+    {
+      "Date": "2018-03-23",
+      "Coin": "Bitcoin",
+      "Price": "8898.03 USD",
+      "Volume": 36943
+    },
+    {
+      "Date": "2018-03-22",
+      "Coin": "Bitcoin",
+      "Price": "8722.9 USD",
+      "Volume": 37296.04
+    },
+    {
+      "Date": "2018-03-21",
+      "Coin": "Bitcoin",
+      "Price": "8885 USD",
+      "Volume": 36819.81
+    },
+    {
+      "Date": "2018-03-20",
+      "Coin": "Bitcoin",
+      "Price": "8909.98 USD",
+      "Volume": 41477.45
+    },
+    {
+      "Date": "2018-03-19",
+      "Coin": "Bitcoin",
+      "Price": "8600 USD",
+      "Volume": 49737.89
+    },
+    {
+      "Date": "2018-03-18",
+      "Coin": "Bitcoin",
+      "Price": "8189.99 USD",
+      "Volume": 52990.19
+    },
+    {
+      "Date": "2018-03-17",
+      "Coin": "Bitcoin",
+      "Price": "7824.8 USD",
+      "Volume": 30758.47
+    },
+    {
+      "Date": "2018-03-16",
+      "Coin": "Bitcoin",
+      "Price": "8260 USD",
+      "Volume": 35584.81
+    },
+    {
+      "Date": "2018-03-15",
+      "Coin": "Bitcoin",
+      "Price": "8240.98 USD",
+      "Volume": 46635.96
+    },
+    {
+      "Date": "2018-03-14",
+      "Coin": "Bitcoin",
+      "Price": "8170 USD",
+      "Volume": 44449.41
+    },
+    {
+      "Date": "2018-03-13",
+      "Coin": "Bitcoin",
+      "Price": "9150 USD",
+      "Volume": 36864.04
+    },
+    {
+      "Date": "2018-03-12",
+      "Coin": "Bitcoin",
+      "Price": "9131.22 USD",
+      "Volume": 37368.44
+    },
+    {
+      "Date": "2018-03-11",
+      "Coin": "Bitcoin",
+      "Price": "9533.57 USD",
+      "Volume": 40514.46
+    },
+    {
+      "Date": "2018-03-10",
+      "Coin": "Bitcoin",
+      "Price": "8770.22 USD",
+      "Volume": 34235.3
+    },
+    {
+      "Date": "2018-03-09",
+      "Coin": "Bitcoin",
+      "Price": "9227 USD",
+      "Volume": 58314.31
+    },
+    {
+      "Date": "2018-03-08",
+      "Coin": "Bitcoin",
+      "Price": "9271.64 USD",
+      "Volume": 37156.84
+    },
+    {
+      "Date": "2018-03-07",
+      "Coin": "Bitcoin",
+      "Price": "9910 USD",
+      "Volume": 42833.84
+    },
+    {
+      "Date": "2018-03-06",
+      "Coin": "Bitcoin",
+      "Price": "10716.48 USD",
+      "Volume": 27488.54
+    },
+    {
+      "Date": "2018-03-05",
+      "Coin": "Bitcoin",
+      "Price": "11454 USD",
+      "Volume": 14276.07
+    },
+    {
+      "Date": "2018-03-04",
+      "Coin": "Bitcoin",
+      "Price": "11515 USD",
+      "Volume": 16252.37
+    },
+    {
+      "Date": "2018-03-03",
+      "Coin": "Bitcoin",
+      "Price": "11464.48 USD",
+      "Volume": 20044.83
+    },
+    {
+      "Date": "2018-03-02",
+      "Coin": "Bitcoin",
+      "Price": "11039 USD",
+      "Volume": 22326.97
+    },
+    {
+      "Date": "2018-03-01",
+      "Coin": "Bitcoin",
+      "Price": "10920 USD",
+      "Volume": 23394.5
+    },
+    {
+      "Date": "2018-02-28",
+      "Coin": "Bitcoin",
+      "Price": "10326.76 USD",
+      "Volume": 28318.19
+    },
+    {
+      "Date": "2018-02-27",
+      "Coin": "Bitcoin",
+      "Price": "10569.04 USD",
+      "Volume": 28490.63
+    },
+    {
+      "Date": "2018-02-26",
+      "Coin": "Bitcoin",
+      "Price": "10324 USD",
+      "Volume": 31829.46
+    },
+    {
+      "Date": "2018-02-25",
+      "Coin": "Bitcoin",
+      "Price": "9590 USD",
+      "Volume": 26646.08
+    },
+    {
+      "Date": "2018-02-24",
+      "Coin": "Bitcoin",
+      "Price": "9694.51 USD",
+      "Volume": 37601.32
+    },
+    {
+      "Date": "2018-02-23",
+      "Coin": "Bitcoin",
+      "Price": "10131.04 USD",
+      "Volume": 51699.13
+    },
+    {
+      "Date": "2018-02-22",
+      "Coin": "Bitcoin",
+      "Price": "9812 USD",
+      "Volume": 60160.28
+    },
+    {
+      "Date": "2018-02-21",
+      "Coin": "Bitcoin",
+      "Price": "10437.6 USD",
+      "Volume": 60698.11
+    },
+    {
+      "Date": "2018-02-20",
+      "Coin": "Bitcoin",
+      "Price": "11200.99 USD",
+      "Volume": 42976.9
+    },
+    {
+      "Date": "2018-02-19",
+      "Coin": "Bitcoin",
+      "Price": "11153 USD",
+      "Volume": 35933.51
+    },
+    {
+      "Date": "2018-02-18",
+      "Coin": "Bitcoin",
+      "Price": "10388.87 USD",
+      "Volume": 55159.58
+    },
+    {
+      "Date": "2018-02-17",
+      "Coin": "Bitcoin",
+      "Price": "11039.55 USD",
+      "Volume": 38435.94
+    },
+    {
+      "Date": "2018-02-16",
+      "Coin": "Bitcoin",
+      "Price": "10159.98 USD",
+      "Volume": 35216.36
+    },
+    {
+      "Date": "2018-02-15",
+      "Coin": "Bitcoin",
+      "Price": "10000.09 USD",
+      "Volume": 47105.76
+    },
+    {
+      "Date": "2018-02-14",
+      "Coin": "Bitcoin",
+      "Price": "9449.99 USD",
+      "Volume": 37166.09
+    },
+    {
+      "Date": "2018-02-13",
+      "Coin": "Bitcoin",
+      "Price": "8539.9 USD",
+      "Volume": 32588.8
+    },
+    {
+      "Date": "2018-02-12",
+      "Coin": "Bitcoin",
+      "Price": "8903 USD",
+      "Volume": 38398.92
+    },
+    {
+      "Date": "2018-02-11",
+      "Coin": "Bitcoin",
+      "Price": "8063.88 USD",
+      "Volume": 41338.22
+    },
+    {
+      "Date": "2018-02-10",
+      "Coin": "Bitcoin",
+      "Price": "8533.98 USD",
+      "Volume": 45048.99
+    },
+    {
+      "Date": "2018-02-09",
+      "Coin": "Bitcoin",
+      "Price": "8683.92 USD",
+      "Volume": 19100.17
+    },
+    {
+      "Date": "2018-02-08",
+      "Coin": "Bitcoin",
+      "Price": "7784.02 USD",
+      "Volume": 1376.8
+    },
+    {
+      "Date": "2018-02-07",
+      "Coin": "Bitcoin",
+      "Price": "7599 USD",
+      "Volume": 55738.8
+    },
+    {
+      "Date": "2018-02-06",
+      "Coin": "Bitcoin",
+      "Price": "7652.14 USD",
+      "Volume": 88573.43
+    },
+    {
+      "Date": "2018-02-05",
+      "Coin": "Bitcoin",
+      "Price": "6939.99 USD",
+      "Volume": 56551.1
+    },
+    {
+      "Date": "2018-02-04",
+      "Coin": "Bitcoin",
+      "Price": "8184.81 USD",
+      "Volume": 29653.19
+    },
+    {
+      "Date": "2018-02-03",
+      "Coin": "Bitcoin",
+      "Price": "9199.96 USD",
+      "Volume": 26861.87
+    },
+    {
+      "Date": "2018-02-02",
+      "Coin": "Bitcoin",
+      "Price": "8873.03 USD",
+      "Volume": 45683.92
+    },
+    {
+      "Date": "2018-02-01",
+      "Coin": "Bitcoin",
+      "Price": "9224.52 USD",
+      "Volume": 31291.48
+    },
+    {
+      "Date": "2018-01-31",
+      "Coin": "Bitcoin",
+      "Price": "10285.1 USD",
+      "Volume": 16790.52
+    },
+    {
+      "Date": "2018-01-30",
+      "Coin": "Bitcoin",
+      "Price": "10237.51 USD",
+      "Volume": 23705.37
+    },
+    {
+      "Date": "2018-01-29",
+      "Coin": "Bitcoin",
+      "Price": "11251 USD",
+      "Volume": 13396.35
+    },
+    {
+      "Date": "2018-01-28",
+      "Coin": "Bitcoin",
+      "Price": "11879.95 USD",
+      "Volume": 15989.57
+    },
+    {
+      "Date": "2018-01-27",
+      "Coin": "Bitcoin",
+      "Price": "11498.31 USD",
+      "Volume": 17752.21
+    },
+    {
+      "Date": "2018-01-26",
+      "Coin": "Bitcoin",
+      "Price": "11089 USD",
+      "Volume": 30454.62
+    },
+    {
+      "Date": "2018-01-25",
+      "Coin": "Bitcoin",
+      "Price": "11175.27 USD",
+      "Volume": 19534.52
+    },
+    {
+      "Date": "2018-01-24",
+      "Coin": "Bitcoin",
+      "Price": "11350 USD",
+      "Volume": 25385.61
+    },
+    {
+      "Date": "2018-01-23",
+      "Coin": "Bitcoin",
+      "Price": "10799.18 USD",
+      "Volume": 34576.61
+    },
+    {
+      "Date": "2018-01-22",
+      "Coin": "Bitcoin",
+      "Price": "10760.05 USD",
+      "Volume": 40200.74
+    },
+    {
+      "Date": "2018-01-21",
+      "Coin": "Bitcoin",
+      "Price": "11530 USD",
+      "Volume": 38198.74
+    },
+    {
+      "Date": "2018-01-20",
+      "Coin": "Bitcoin",
+      "Price": "12799.94 USD",
+      "Volume": 26892.43
+    },
+    {
+      "Date": "2018-01-19",
+      "Coin": "Bitcoin",
+      "Price": "11474.98 USD",
+      "Volume": 31725.06
+    },
+    {
+      "Date": "2018-01-18",
+      "Coin": "Bitcoin",
+      "Price": "10961.97 USD",
+      "Volume": 44630.41
+    },
+    {
+      "Date": "2018-01-17",
+      "Coin": "Bitcoin",
+      "Price": "10988.79 USD",
+      "Volume": 65739.97
+    },
+    {
+      "Date": "2018-01-16",
+      "Coin": "Bitcoin",
+      "Price": "10900 USD",
+      "Volume": 57782.94
+    },
+    {
+      "Date": "2018-01-15",
+      "Coin": "Bitcoin",
+      "Price": "13539.93 USD",
+      "Volume": 13478.7
+    },
+    {
+      "Date": "2018-01-14",
+      "Coin": "Bitcoin",
+      "Price": "13474.99 USD",
+      "Volume": 16068.86
+    },
+    {
+      "Date": "2018-01-13",
+      "Coin": "Bitcoin",
+      "Price": "14210 USD",
+      "Volume": 11761.21
+    },
+    {
+      "Date": "2018-01-12",
+      "Coin": "Bitcoin",
+      "Price": "13740.01 USD",
+      "Volume": 15623.63
+    },
+    {
+      "Date": "2018-01-11",
+      "Coin": "Bitcoin",
+      "Price": "13238.78 USD",
+      "Volume": 30583.29
+    },
+    {
+      "Date": "2018-01-10",
+      "Coin": "Bitcoin",
+      "Price": "14907.09 USD",
+      "Volume": 15923.89
+    },
+    {
+      "Date": "2018-01-09",
+      "Coin": "Bitcoin",
+      "Price": "14400 USD",
+      "Volume": 13116.63
+    },
+    {
+      "Date": "2018-01-08",
+      "Coin": "Bitcoin",
+      "Price": "14902.54 USD",
+      "Volume": 22021.1
+    },
+    {
+      "Date": "2018-01-07",
+      "Coin": "Bitcoin",
+      "Price": "16150.03 USD",
+      "Volume": 9055.69
+    },
+    {
+      "Date": "2018-01-06",
+      "Coin": "Bitcoin",
+      "Price": "17069.79 USD",
+      "Volume": 14467.86
+    },
+    {
+      "Date": "2018-01-05",
+      "Coin": "Bitcoin",
+      "Price": "16960.39 USD",
+      "Volume": 21727.09
+    },
+    {
+      "Date": "2018-01-04",
+      "Coin": "Bitcoin",
+      "Price": "15059.54 USD",
+      "Volume": 20701.32
+    },
+    {
+      "Date": "2018-01-03",
+      "Coin": "Bitcoin",
+      "Price": "14919.51 USD",
+      "Volume": 15324.48
+    },
+    {
+      "Date": "2018-01-02",
+      "Coin": "Bitcoin",
+      "Price": "14675.11 USD",
+      "Volume": 19323.86
+    },
+    {
+      "Date": "2018-01-01",
+      "Coin": "Bitcoin",
+      "Price": "13387 USD",
+      "Volume": 8229.99
+    },
+    {
+      "Date": "2017-12-31",
+      "Coin": "Bitcoin",
+      "Price": "13716.36 USD",
+      "Volume": 11185.03
+    },
+    {
+      "Date": "2017-12-30",
+      "Coin": "Bitcoin",
+      "Price": "12440.01 USD",
+      "Volume": 18048.22
+    },
+    {
+      "Date": "2017-12-29",
+      "Coin": "Bitcoin",
+      "Price": "14378.9 USD",
+      "Volume": 17529.86
+    },
+    {
+      "Date": "2017-12-28",
+      "Coin": "Bitcoin",
+      "Price": "14182.11 USD",
+      "Volume": 20542.86
+    },
+    {
+      "Date": "2017-12-27",
+      "Coin": "Bitcoin",
+      "Price": "15459.99 USD",
+      "Volume": 14346
+    },
+    {
+      "Date": "2017-12-26",
+      "Coin": "Bitcoin",
+      "Price": "15689.01 USD",
+      "Volume": 14518.35
+    },
+    {
+      "Date": "2017-12-25",
+      "Coin": "Bitcoin",
+      "Price": "13699.34 USD",
+      "Volume": 15309.82
+    },
+    {
+      "Date": "2017-12-24",
+      "Coin": "Bitcoin",
+      "Price": "13500 USD",
+      "Volume": 27308.43
+    },
+    {
+      "Date": "2017-12-23",
+      "Coin": "Bitcoin",
+      "Price": "13300 USD",
+      "Volume": 12442.98
+    },
+    {
+      "Date": "2017-12-22",
+      "Coin": "Bitcoin",
+      "Price": "13326.61 USD",
+      "Volume": 33474.46
+    },
+    {
+      "Date": "2017-12-21",
+      "Coin": "Bitcoin",
+      "Price": "15492.64 USD",
+      "Volume": 19677.98
+    },
+    {
+      "Date": "2017-12-20",
+      "Coin": "Bitcoin",
+      "Price": "16488.98 USD",
+      "Volume": 12787.63
+    },
+    {
+      "Date": "2017-12-19",
+      "Coin": "Bitcoin",
+      "Price": "17295.2 USD",
+      "Volume": 12628.02
+    },
+    {
+      "Date": "2017-12-18",
+      "Coin": "Bitcoin",
+      "Price": "18856.25 USD",
+      "Volume": 10280.98
+    },
+    {
+      "Date": "2017-12-17",
+      "Coin": "Bitcoin",
+      "Price": "18860.02 USD",
+      "Volume": 8980.73
+    },
+    {
+      "Date": "2017-12-16",
+      "Coin": "Bitcoin",
+      "Price": "19102.66 USD",
+      "Volume": 4118.28
+    },
+    {
+      "Date": "2017-12-15",
+      "Coin": "Bitcoin",
+      "Price": "17539.83 USD",
+      "Volume": 8999.13
+    },
+    {
+      "Date": "2017-12-14",
+      "Coin": "Bitcoin",
+      "Price": "16334.98 USD",
+      "Volume": 11220.26
+    },
+    {
+      "Date": "2017-12-13",
+      "Coin": "Bitcoin",
+      "Price": "16033.29 USD",
+      "Volume": 12216.88
+    },
+    {
+      "Date": "2017-12-12",
+      "Coin": "Bitcoin",
+      "Price": "16349.99 USD",
+      "Volume": 9309.36
+    },
+    {
+      "Date": "2017-12-11",
+      "Coin": "Bitcoin",
+      "Price": "16587.97 USD",
+      "Volume": 11632.79
+    },
+    {
+      "Date": "2017-12-10",
+      "Coin": "Bitcoin",
+      "Price": "14899.98 USD",
+      "Volume": 16107.43
+    },
+    {
+      "Date": "2017-12-09",
+      "Coin": "Bitcoin",
+      "Price": "14656.07 USD",
+      "Volume": 13725
+    },
+    {
+      "Date": "2017-12-08",
+      "Coin": "Bitcoin",
+      "Price": "15880 USD",
+      "Volume": 17344.04
+    },
+    {
+      "Date": "2017-12-07",
+      "Coin": "Bitcoin",
+      "Price": "16599 USD",
+      "Volume": 7262.95
+    },
+    {
+      "Date": "2017-12-06",
+      "Coin": "Bitcoin",
+      "Price": "13550.05 USD",
+      "Volume": 6556.68
+    },
+    {
+      "Date": "2017-12-05",
+      "Coin": "Bitcoin",
+      "Price": "11699.99 USD",
+      "Volume": 5510.92
+    },
+    {
+      "Date": "2017-12-04",
+      "Coin": "Bitcoin",
+      "Price": "11579 USD",
+      "Volume": 4599.15
+    },
+    {
+      "Date": "2017-12-03",
+      "Coin": "Bitcoin",
+      "Price": "11165.41 USD",
+      "Volume": 5212.23
+    },
+    {
+      "Date": "2017-12-02",
+      "Coin": "Bitcoin",
+      "Price": "10890.01 USD",
+      "Volume": 4700.93
+    },
+    {
+      "Date": "2017-12-01",
+      "Coin": "Bitcoin",
+      "Price": "10782.99 USD",
+      "Volume": 6033.85
+    },
+    {
+      "Date": "2017-11-30",
+      "Coin": "Bitcoin",
+      "Price": "9838.96 USD",
+      "Volume": 9181.76
+    },
+    {
+      "Date": "2017-11-29",
+      "Coin": "Bitcoin",
+      "Price": "9687.88 USD",
+      "Volume": 13041.92
+    },
+    {
+      "Date": "2017-11-28",
+      "Coin": "Bitcoin",
+      "Price": "9896.8 USD",
+      "Volume": 4877.07
+    },
+    {
+      "Date": "2017-11-27",
+      "Coin": "Bitcoin",
+      "Price": "9650 USD",
+      "Volume": 4473.98
+    },
+    {
+      "Date": "2017-11-26",
+      "Coin": "Bitcoin",
+      "Price": "9128.02 USD",
+      "Volume": 4108.18
+    },
+    {
+      "Date": "2017-11-25",
+      "Coin": "Bitcoin",
+      "Price": "8700.01 USD",
+      "Volume": 4228.66
+    },
+    {
+      "Date": "2017-11-24",
+      "Coin": "Bitcoin",
+      "Price": "8138 USD",
+      "Volume": 4331.83
+    },
+    {
+      "Date": "2017-11-23",
+      "Coin": "Bitcoin",
+      "Price": "8019.99 USD",
+      "Volume": 4054.54
+    },
+    {
+      "Date": "2017-11-22",
+      "Coin": "Bitcoin",
+      "Price": "8205.92 USD",
+      "Volume": 3518.81
+    },
+    {
+      "Date": "2017-11-21",
+      "Coin": "Bitcoin",
+      "Price": "8119.51 USD",
+      "Volume": 4468.09
+    },
+    {
+      "Date": "2017-11-20",
+      "Coin": "Bitcoin",
+      "Price": "8212 USD",
+      "Volume": 3857
+    },
+    {
+      "Date": "2017-11-19",
+      "Coin": "Bitcoin",
+      "Price": "8038 USD",
+      "Volume": 3845.99
+    },
+    {
+      "Date": "2017-11-18",
+      "Coin": "Bitcoin",
+      "Price": "7761.94 USD",
+      "Volume": 3912.88
+    },
+    {
+      "Date": "2017-11-17",
+      "Coin": "Bitcoin",
+      "Price": "7699.19 USD",
+      "Volume": 3893.14
+    },
+    {
+      "Date": "2017-11-16",
+      "Coin": "Bitcoin",
+      "Price": "7864.5 USD",
+      "Volume": 2294.2
+    },
+    {
+      "Date": "2017-11-15",
+      "Coin": "Bitcoin",
+      "Price": "7240.06 USD",
+      "Volume": 1745.83
+    },
+    {
+      "Date": "2017-11-14",
+      "Coin": "Bitcoin",
+      "Price": "6574.99 USD",
+      "Volume": 1228.66
+    },
+    {
+      "Date": "2017-11-13",
+      "Coin": "Bitcoin",
+      "Price": "6465.99 USD",
+      "Volume": 2543.41
+    },
+    {
+      "Date": "2017-11-12",
+      "Coin": "Bitcoin",
+      "Price": "5811.03 USD",
+      "Volume": 4854.44
+    },
+    {
+      "Date": "2017-11-11",
+      "Coin": "Bitcoin",
+      "Price": "6245.05 USD",
+      "Volume": 2685.67
+    },
+    {
+      "Date": "2017-11-10",
+      "Coin": "Bitcoin",
+      "Price": "6506.98 USD",
+      "Volume": 3186.23
+    },
+    {
+      "Date": "2017-11-09",
+      "Coin": "Bitcoin",
+      "Price": "7079.99 USD",
+      "Volume": 1893.28
+    },
+    {
+      "Date": "2017-11-08",
+      "Coin": "Bitcoin",
+      "Price": "7303 USD",
+      "Volume": 2726.84
+    },
+    {
+      "Date": "2017-11-07",
+      "Coin": "Bitcoin",
+      "Price": "7064.04 USD",
+      "Volume": 1421.75
+    },
+    {
+      "Date": "2017-11-06",
+      "Coin": "Bitcoin",
+      "Price": "6960.12 USD",
+      "Volume": 1741.45
+    },
+    {
+      "Date": "2017-11-05",
+      "Coin": "Bitcoin",
+      "Price": "7345.01 USD",
+      "Volume": 1192.58
+    },
+    {
+      "Date": "2017-11-04",
+      "Coin": "Bitcoin",
+      "Price": "7357.09 USD",
+      "Volume": 1385.7
+    },
+    {
+      "Date": "2017-11-03",
+      "Coin": "Bitcoin",
+      "Price": "7115.04 USD",
+      "Volume": 1857.73
+    },
+    {
+      "Date": "2017-11-02",
+      "Coin": "Bitcoin",
+      "Price": "7019.98 USD",
+      "Volume": 2459.59
+    },
+    {
+      "Date": "2017-11-01",
+      "Coin": "Bitcoin",
+      "Price": "6753.98 USD",
+      "Volume": 1659.85
+    },
+    {
+      "Date": "2017-10-31",
+      "Coin": "Bitcoin",
+      "Price": "6463 USD",
+      "Volume": 1498.91
+    },
+    {
+      "Date": "2017-10-30",
+      "Coin": "Bitcoin",
+      "Price": "6120.5 USD",
+      "Volume": 1467.03
+    },
+    {
+      "Date": "2017-10-29",
+      "Coin": "Bitcoin",
+      "Price": "6169.98 USD",
+      "Volume": 1783.44
+    },
+    {
+      "Date": "2017-10-28",
+      "Coin": "Bitcoin",
+      "Price": "5719.64 USD",
+      "Volume": 1269.38
+    },
+    {
+      "Date": "2017-10-27",
+      "Coin": "Bitcoin",
+      "Price": "5768.83 USD",
+      "Volume": 1394.13
+    },
+    {
+      "Date": "2017-10-26",
+      "Coin": "Bitcoin",
+      "Price": "5861.77 USD",
+      "Volume": 1959.75
+    },
+    {
+      "Date": "2017-10-25",
+      "Coin": "Bitcoin",
+      "Price": "5689.99 USD",
+      "Volume": 2256.1
+    },
+    {
+      "Date": "2017-10-24",
+      "Coin": "Bitcoin",
+      "Price": "5477.03 USD",
+      "Volume": 2555.89
+    },
+    {
+      "Date": "2017-10-23",
+      "Coin": "Bitcoin",
+      "Price": "5915.93 USD",
+      "Volume": 1788.86
+    },
+    {
+      "Date": "2017-10-22",
+      "Coin": "Bitcoin",
+      "Price": "5950.02 USD",
+      "Volume": 1347.95
+    },
+    {
+      "Date": "2017-10-21",
+      "Coin": "Bitcoin",
+      "Price": "6024.97 USD",
+      "Volume": 1650.65
+    },
+    {
+      "Date": "2017-10-20",
+      "Coin": "Bitcoin",
+      "Price": "6010.01 USD",
+      "Volume": 1930.56
+    },
+    {
+      "Date": "2017-10-19",
+      "Coin": "Bitcoin",
+      "Price": "5683.9 USD",
+      "Volume": 1869.04
+    },
+    {
+      "Date": "2017-10-18",
+      "Coin": "Bitcoin",
+      "Price": "5512.06 USD",
+      "Volume": 2295.6
+    },
+    {
+      "Date": "2017-10-17",
+      "Coin": "Bitcoin",
+      "Price": "5595 USD",
+      "Volume": 1422.23
+    },
+    {
+      "Date": "2017-10-16",
+      "Coin": "Bitcoin",
+      "Price": "5760.02 USD",
+      "Volume": 1516.11
+    },
+    {
+      "Date": "2017-10-15",
+      "Coin": "Bitcoin",
+      "Price": "5709.99 USD",
+      "Volume": 1329.45
+    },
+    {
+      "Date": "2017-10-14",
+      "Coin": "Bitcoin",
+      "Price": "5869.99 USD",
+      "Volume": 966.19
+    },
+    {
+      "Date": "2017-10-13",
+      "Coin": "Bitcoin",
+      "Price": "5649.98 USD",
+      "Volume": 1865.9
+    },
+    {
+      "Date": "2017-10-12",
+      "Coin": "Bitcoin",
+      "Price": "5430 USD",
+      "Volume": 1267.18
+    },
+    {
+      "Date": "2017-10-11",
+      "Coin": "Bitcoin",
+      "Price": "4821.43 USD",
+      "Volume": 736.72
+    },
+    {
+      "Date": "2017-10-10",
+      "Coin": "Bitcoin",
+      "Price": "4783.06 USD",
+      "Volume": 1036.4
+    },
+    {
+      "Date": "2017-10-09",
+      "Coin": "Bitcoin",
+      "Price": "4786.95 USD",
+      "Volume": 639.27
+    },
+    {
+      "Date": "2017-10-08",
+      "Coin": "Bitcoin",
+      "Price": "4640 USD",
+      "Volume": 504.13
+    },
+    {
+      "Date": "2017-10-07",
+      "Coin": "Bitcoin",
+      "Price": "4423 USD",
+      "Volume": 288.14
+    },
+    {
+      "Date": "2017-10-06",
+      "Coin": "Bitcoin",
+      "Price": "4369 USD",
+      "Volume": 502.17
+    },
+    {
+      "Date": "2017-10-05",
+      "Coin": "Bitcoin",
+      "Price": "4292.43 USD",
+      "Volume": 760.44
+    },
+    {
+      "Date": "2017-10-04",
+      "Coin": "Bitcoin",
+      "Price": "4208.59 USD",
+      "Volume": 859.82
+    },
+    {
+      "Date": "2017-10-03",
+      "Coin": "Bitcoin",
+      "Price": "4310 USD",
+      "Volume": 1070.97
+    },
+    {
+      "Date": "2017-10-02",
+      "Coin": "Bitcoin",
+      "Price": "4380 USD",
+      "Volume": 634.55
+    },
+    {
+      "Date": "2017-10-01",
+      "Coin": "Bitcoin",
+      "Price": "4378.48 USD",
+      "Volume": 724.9
+    },
+    {
+      "Date": "2017-09-30",
+      "Coin": "Bitcoin",
+      "Price": "4378.51 USD",
+      "Volume": 705.52
+    },
+    {
+      "Date": "2017-09-29",
+      "Coin": "Bitcoin",
+      "Price": "4174.69 USD",
+      "Volume": 1561.22
+    },
+    {
+      "Date": "2017-09-25",
+      "Coin": "Bitcoin",
+      "Price": "3920.75 USD",
+      "Volume": 720.64
+    },
+    {
+      "Date": "2017-09-28",
+      "Coin": "Bitcoin",
+      "Price": "4174.5 USD",
+      "Volume": 839.55
+    },
+    {
+      "Date": "2017-09-27",
+      "Coin": "Bitcoin",
+      "Price": "4193 USD",
+      "Volume": 625.3
+    },
+    {
+      "Date": "2017-09-26",
+      "Coin": "Bitcoin",
+      "Price": "3882.35 USD",
+      "Volume": 523.31
+    },
+    {
+      "Date": "2017-09-24",
+      "Coin": "Bitcoin",
+      "Price": "3660.02 USD",
+      "Volume": 659.82
+    },
+    {
+      "Date": "2017-09-23",
+      "Coin": "Bitcoin",
+      "Price": "3780 USD",
+      "Volume": 747.79
+    },
+    {
+      "Date": "2017-09-22",
+      "Coin": "Bitcoin",
+      "Price": "3595.87 USD",
+      "Volume": 833.3
+    },
+    {
+      "Date": "2017-09-21",
+      "Coin": "Bitcoin",
+      "Price": "3609.99 USD",
+      "Volume": 971.06
+    },
+    {
+      "Date": "2017-09-20",
+      "Coin": "Bitcoin",
+      "Price": "3900 USD",
+      "Volume": 719.59
+    },
+    {
+      "Date": "2017-09-19",
+      "Coin": "Bitcoin",
+      "Price": "3910.04 USD",
+      "Volume": 898.81
+    },
+    {
+      "Date": "2017-09-18",
+      "Coin": "Bitcoin",
+      "Price": "4035.01 USD",
+      "Volume": 1027.67
+    },
+    {
+      "Date": "2017-09-17",
+      "Coin": "Bitcoin",
+      "Price": "3699.99 USD",
+      "Volume": 676.16
+    },
+    {
+      "Date": "2017-09-16",
+      "Coin": "Bitcoin",
+      "Price": "3714.95 USD",
+      "Volume": 1280.1
+    },
+    {
+      "Date": "2017-09-15",
+      "Coin": "Bitcoin",
+      "Price": "3700 USD",
+      "Volume": 1949.32
+    },
+    {
+      "Date": "2017-09-14",
+      "Coin": "Bitcoin",
+      "Price": "3189.02 USD",
+      "Volume": 1642.54
+    },
+    {
+      "Date": "2017-09-13",
+      "Coin": "Bitcoin",
+      "Price": "3944.69 USD",
+      "Volume": 901.25
+    },
+    {
+      "Date": "2017-09-12",
+      "Coin": "Bitcoin",
+      "Price": "4163.72 USD",
+      "Volume": 873.9
+    },
+    {
+      "Date": "2017-09-11",
+      "Coin": "Bitcoin",
+      "Price": "4208.47 USD",
+      "Volume": 685.57
+    },
+    {
+      "Date": "2017-09-10",
+      "Coin": "Bitcoin",
+      "Price": "4130.37 USD",
+      "Volume": 648.94
+    },
+    {
+      "Date": "2017-09-09",
+      "Coin": "Bitcoin",
+      "Price": "4258.81 USD",
+      "Volume": 658.59
+    },
+    {
+      "Date": "2017-09-08",
+      "Coin": "Bitcoin",
+      "Price": "4282.8 USD",
+      "Volume": 1108.34
+    },
+    {
+      "Date": "2017-09-07",
+      "Coin": "Bitcoin",
+      "Price": "4691.61 USD",
+      "Volume": 481.83
+    },
+    {
+      "Date": "2017-09-06",
+      "Coin": "Bitcoin",
+      "Price": "4619.77 USD",
+      "Volume": 779.5
+    },
+    {
+      "Date": "2017-09-05",
+      "Coin": "Bitcoin",
+      "Price": "4366.47 USD",
+      "Volume": 1175.2
+    },
+    {
+      "Date": "2017-09-04",
+      "Coin": "Bitcoin",
+      "Price": "4100.11 USD",
+      "Volume": 1309.91
+    },
+    {
+      "Date": "2017-09-03",
+      "Coin": "Bitcoin",
+      "Price": "4509.08 USD",
+      "Volume": 666.62
+    },
+    {
+      "Date": "2017-09-02",
+      "Coin": "Bitcoin",
+      "Price": "4472.14 USD",
+      "Volume": 888.18
+    },
+    {
+      "Date": "2017-09-01",
+      "Coin": "Bitcoin",
+      "Price": "4834.91 USD",
+      "Volume": 554.18
+    },
+    {
+      "Date": "2017-08-31",
+      "Coin": "Bitcoin",
+      "Price": "4724.89 USD",
+      "Volume": 550.18
+    },
+    {
+      "Date": "2017-08-30",
+      "Coin": "Bitcoin",
+      "Price": "4555.14 USD",
+      "Volume": 790.13
+    },
+    {
+      "Date": "2017-08-29",
+      "Coin": "Bitcoin",
+      "Price": "4587.48 USD",
+      "Volume": 594.12
+    },
+    {
+      "Date": "2017-08-28",
+      "Coin": "Bitcoin",
+      "Price": "4386.69 USD",
+      "Volume": 593.15
+    },
+    {
+      "Date": "2017-08-27",
+      "Coin": "Bitcoin",
+      "Price": "4310.01 USD",
+      "Volume": 347.47
+    },
+    {
+      "Date": "2017-08-26",
+      "Coin": "Bitcoin",
+      "Price": "4337.44 USD",
+      "Volume": 225.76
+    },
+    {
+      "Date": "2017-08-25",
+      "Coin": "Bitcoin",
+      "Price": "4280.68 USD",
+      "Volume": 563.36
+    },
+    {
+      "Date": "2017-08-24",
+      "Coin": "Bitcoin",
+      "Price": "4316.01 USD",
+      "Volume": 770.46
+    },
+    {
+      "Date": "2017-08-23",
+      "Coin": "Bitcoin",
+      "Price": "4114.01 USD",
+      "Volume": 980.5
+    },
+    {
+      "Date": "2017-08-22",
+      "Coin": "Bitcoin",
+      "Price": "4040 USD",
+      "Volume": 939.91
+    },
+    {
+      "Date": "2017-08-21",
+      "Coin": "Bitcoin",
+      "Price": "4016 USD",
+      "Volume": 685.12
+    },
+    {
+      "Date": "2017-08-20",
+      "Coin": "Bitcoin",
+      "Price": "4086.29 USD",
+      "Volume": 463.54
+    },
+    {
+      "Date": "2017-08-19",
+      "Coin": "Bitcoin",
+      "Price": "4139.98 USD",
+      "Volume": 371.15
+    },
+    {
+      "Date": "2017-08-18",
+      "Coin": "Bitcoin",
+      "Price": "4108.37 USD",
+      "Volume": 1178.07
+    },
+    {
+      "Date": "2017-08-17",
+      "Coin": "Bitcoin",
+      "Price": "4285.08 USD",
+      "Volume": 647.86
+    }
+  ]

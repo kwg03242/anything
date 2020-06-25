@@ -1,0 +1,64 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: solid;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: white;
+    color: #4CAF50;
+    border: solid;
+}
+
+.menu-section{
+    height: 100px;
+}
+
+.chart-section{
+    background-color: #f6fff7;
+    border-radius: 15px;
+    width: 800px;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin-bottom: 2.5%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.chart-section.hide {
+    opacity: 0;
+    pointer-events:none;
+  }
+
+.full-width{
+    width: 100%;
+}
+
+.center{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.fadeOut{
+    opacity:0;
+    width:0;
+    height:0;
+}
+.fadeIn{
+    opacity:1;
+    transition: width 0.5s, height 0.5s, opacity 0.5s 0.5s;
+}
